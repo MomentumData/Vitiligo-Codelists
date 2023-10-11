@@ -1,474 +1,491 @@
-**Congenital and Genetic Hypomelanoses**
+Congenital and Genetic Hypomelanoses
+Read V2 Code | Description
+C302A | Piebaldism
+PK5.. | Tuberous sclerosis
+PKy54 | Waardenburg's syndrome
+C3029 | Hermansky-Pudlak
+PKy92 | Menke's syndrome
 
-Read V2 Code	Description
-C302A	Piebaldism
-PK5..	Tuberous sclerosis
-PKy54	Waardenburg's syndrome
-C3029	Hermansky-Pudlak
-PKy92	Menke's syndrome
-Read CTV3 Code	Description
-X78Ve	Hypomelanosis of Ito
-XaZqX	Piebaldism
-PK5..	Tuberous sclerosis
-X78E7	Ash leaf spot, tuberous sclerosis
-X78E8	Shargreen patch
-X78E9	Adenoma sebaceum
-X20Ex	Hermansky-Pudlak syndrome
-X20ij	Griscelli syndrome with immunodeficiency
-PKy92	Menkes syndrome
-SNOMED Code	Description
- 218358001	Incontinentia pigmenti achromians syndrome (disorder)
-718122005	Piebaldism (disorder)
-7199000	Tuberous sclerosus syndrome (disorder)
-254243001	Ash leaf spot, tuberous sclerosis (disorder)
- 36025004	Fibrous skin tumor of tuberous sclerosis (disorder)
-254244007	Shagreen patch (disorder)
-9311003	Hermansky-Pudlak syndrome (disorder)
-37548006	Hypopigmentation-immunodeficiency disease (disorder)
-59178007	Menkes kinky-hair syndrome (disorder)
-47434006	Waardenburg's syndrome (disorder)
-715952000	Waardenburg syndrome co-occurrent with Hirschsprung disease (disorder)
-773575001	Ocular albinism with congenital sensorineural deafness (disorder)
-765325002	Peripheral demyelinating neuropathy, central dysmyelinating leukodystrophy, Waardenburg syndrome, Hirschsprung disease (disorder)
+Read CTV3 Code | Description
+X78Ve | Hypomelanosis of Ito
+XaZqX | Piebaldism
+PK5.. | Tuberous sclerosis
+X78E7 | Ash leaf spot, tuberous sclerosis
+X78E8 | Shargreen patch
+X78E9 | Adenoma sebaceum
+X20Ex | Hermansky-Pudlak syndrome
+X20ij | Griscelli syndrome with immunodeficiency
+PKy92 | Menkes syndrome
+
+SNOMED Code | Description
+218358001 | Incontinentia pigmenti achromians syndrome (disorder)
+718122005 | Piebaldism (disorder)
+7199000 | Tuberous sclerosus syndrome (disorder)
+254243001 | Ash leaf spot, tuberous sclerosis (disorder)
+36025004 | Fibrous skin tumor of tuberous sclerosis (disorder)
+254244007 | Shagreen patch (disorder)
+9311003 | Hermansky-Pudlak syndrome (disorder)
+37548006 | Hypopigmentation-immunodeficiency disease (disorder)
+59178007 | Menkes kinky-hair syndrome (disorder)
+47434006 | Waardenburg's syndrome (disorder)
+715952000 | Waardenburg syndrome co-occurrent with Hirschsprung disease (disorder)
+773575001 | Ocular albinism with congenital sensorineural deafness (disorder)
+765325002 | Peripheral demyelinating neuropathy, central dysmyelinating leukodystrophy, Waardenburg syndrome, Hirschsprung disease (disorder)
+
 Post-inflammatory Hypomelanoses
-Read V2 Code	Description
-M2920	Post inflammatory hypopigmentation
-M170.	Lichen planus
-M1700	Lichen planus actinicus
-M1701	Lichen planus annularis
-M1702	Lichen planus atrophicus
-M1703	Lichen planus bullosus
-M1704	Lichen planus hypertrophicus 
-M1705	Lichen planus linearis
-M1707	Lichen planus obtusus
-M1708	Subacute active lichen planus
-M1709	Follicular lichen planus
-M170z	Lichen planus NOS
-M17y0	Lichen ruber moniliforme 
-M1650	Pityriasis alba
-M2102	Lichen sclerosus and atrophicus
-K276.	Balanitis xerotica obliterans
-Read CTV3 Code	Description
-Xa0WM	Post inflammatory hypopigmentation
-M170.	Lichen planus
-X507Y	Confluent lichen planus
-X507Z	Micropaplular lichen planus
-X507a	Guttate lichen planus 
-X507b	Follicular lichen planus
-M1703	Bullous lichen planus
-M1701	Annular lichen planus
-M1704	Hypertrophic lichen planus
-M1702	Atrophic lichen planus
-M1705	Linear lichen planus
-X507c	Zosteriform lichen planus
-M1700	Acintic lichen planus
-X507d	Post inflammatory hyperpigmentation in lichen planus
-X507e	Wickham's striae in lichen planus
-X507f	Lichen planus - lupus erythematosus overlap
-X507g	Lichen planus pemphigoides
-X507h	Site-specific lichen planus
-X507i	Lichen planus of scalp
-X507j	Lichen planus of palms and soles
-X507k	Ulcerative lichen planus of palms and soles
-X507n	Mutilating lichen planus of fingers and toes
-X507l	Lichen planus of nail
-X507w	Genital lichen planus
-X408F	Lichen planus of vuvla
-X507y	Erosive lichen planus of vulva
-X507z	Lichen planus of penis
-X5080	Lichen planus of glans penis 
-M1707	Lichen planus obtusus
-M1708	Subacute active lichen planus
-M170z	Lichen planus NOS
-Myu32	[X]Other lichen planus
-M17y0	Lichen ruber moniliforme 
-M1650	Pityriasis alba
-M2102	Lichen sclerosus
-X50FC	Genital lichen sclerosus
-K276.	Balanitis xerotica obliterans
-X50FE	Lichen sclerosus of vulva
-X50FF	Extra genital lichen sclerosus
-X50FG	Guttate lichen sclerosus
-SNOMED Code	Description
-277787003	Post-inflammatory hypopigmentation (disorder)
-403272001	Post-infective hypomelanosis (disorder)
-403276003	Acquired hypomelanosis of uncertain etiology (disorder)
-4776004	Lichen planus (disorder)
-263797007	Lichen planus-like (qualifier value)
-4459000	Linear lichen planus (disorder)
-6111009	Bullous lichen planus (disorder)
-238666005	Lichen planus of lips (disorder)
-201001005	Lichen planus obtusus (disorder)
-200999007	Actinic lichen planus (disorder)
-238658001	Lichen planus of nail (disorder)
-238668006	Genital lichen planus (disorder)
-201000006	Annular lichen planus (disorder)
-238647005	Guttate lichen planus (disorder)
-237112004	Lichen planus of vulva (disorder)
-400108007	Flexural lichen planus (disorder)
-238655003	Lichen planus of scalp (disorder)
-44509000	Linear lichen planus (disorder)
-25858008	Atrophic lichen planus (disorder)
-238670002	Lichen planus of penis (disorder)
-238645002	Confluent lichen planus (disorder)
-717061002	Lichen planus pigmentosus (disorder)
-238648000	Zosteriform lichen planus (disorder)
-238653005	Lichen planus pemphigoides (disorder)
-68266006	Hypertrophic lichen planus (disorder)
-238646001	Micropapular lichen planus (disorder)
-64540004	Lichen planopilaris (disorder)
-238654004	Site-specific lichen planus (disorder)
-238652000	Lichen planus-lupus erythematosus overlap (disorder)
-403198004	Lichenoid actinic keratosis (disorder)
-723003004	Acute eruptive lichen planus (disorder)
-238671003	Lichen planus of glans penis (disorder)
-68266006	 Hypertrophic lichen planus (disorder)
-201002003	Subacute active lichen planus (disorder)
-720493003	Annular atrophic lichen planus (disorder)
-238651007	Wickham's striae in lichen planus (disorder)
-201001005	Lichen planus obtusus (disorder)
-402349005	Chronic lichen planus (disorder)
-238668006	Genital lichen planus (disorder)
-238656002	Lichen planus of palms and soles (disorder)
-402352002	Poikiloderma due to lichen planus (disorder)
-721171007	Hypertrophic lichen planus of vulva (disorder)
-402348002	Köbner reaction from lichen planus (disorder)
-238657006	Ulcerative lichen planus of palms and soles (disorder)
-238660004	Mutilating lichen planus of fingers and toes (disorder)
-726476005	Lichen planus co-occurrent with onycholysis (disorder)
-238649008	Post-inflammatory hyperpigmentation in lichen planus (disorder)
-402296004	Pityriasis alba (disorder)
-402298003	Diffuse pityriasis alba (disorder)
-402297008	Localised pityriasis alba (disorder)
-25674000	Lichen sclerosus et atrophicus (disorder)
-402423004	Adult lichen sclerosus (disorder)
-782666006	Lichen sclerosus of anus (disorder)
-238934003	Guttate lichen sclerosus (disorder)
-238932004	Genital lichen sclerosus (disorder)
-700082001	Lichen sclerosus of penis (disorder)
-26348009	Lichen sclerosus et atrophicus of the vulva (disorder)
-402424005	Childhood lichen sclerosus (disorder)
-403566002	Anogenital lichen sclerosus (disorder)
-238933009	Extragenital lichen sclerosus (disorder)
-402714001	Lichen sclerosus of male genitalia (disorder)
-402715000	Lichen sclerosus of female genitalia (disorder)
-402422009	Bullous extragenital lichen sclerosus (disorder)
-721199003	Prepubertal lichen sclerosus of vulva (disorder)
-403568001	Localized extragenital lichen sclerosus (disorder)
-402421002	Generalized extragenital lichen sclerosus (disorder)
-403564004	Lichen sclerosus of penis, childhood form (disorder)
-111023000	Lichen sclerosus et atrophicus, bullous type (disorder)
-403565003	Vulval lichen sclerosus, childhood form (disorder)
-198033005	Balanitis xerotica obliterans (disorder)
+Read V2 Code | Description
+M2920 | Post inflammatory hypopigmentation
+M170. | Lichen planus
+M1700 | Lichen planus actinicus
+M1701 | Lichen planus annularis
+M1702 | Lichen planus atrophicus
+M1703 | Lichen planus bullosus
+M1704 | Lichen planus hypertrophicus 
+M1705 | Lichen planus linearis
+M1707 | Lichen planus obtusus
+M1708 | Subacute active lichen planus
+M1709 | Follicular lichen planus
+M170z | Lichen planus NOS
+M17y0 | Lichen ruber moniliforme 
+M1650 | Pityriasis alba
+M2102 | Lichen sclerosus and atrophicus
+K276. | Balanitis xerotica obliterans
+
+Read CTV3 Code | Description
+Xa0WM | Post inflammatory hypopigmentation
+M170. | Lichen planus
+X507Y | Confluent lichen planus
+X507Z | Micropaplular lichen planus
+X507a | Guttate lichen planus 
+X507b | Follicular lichen planus
+M1703 | Bullous lichen planus
+M1701 | Annular lichen planus
+M1704 | Hypertrophic lichen planus
+M1702 | Atrophic lichen planus
+M1705 | Linear lichen planus
+X507c | Zosteriform lichen planus
+M1700 | Acintic lichen planus
+X507d | Post inflammatory hyperpigmentation in lichen planus
+X507e | Wickham's striae in lichen planus
+X507f | Lichen planus - lupus erythematosus overlap
+X507g | Lichen planus pemphigoides
+X507h | Site-specific lichen planus
+X507i | Lichen planus of scalp
+X507j | Lichen planus of palms and soles
+X507k | Ulcerative lichen planus of palms and soles
+X507n | Mutilating lichen planus of fingers and toes
+X507l | Lichen planus of nail
+X507w | Genital lichen planus
+X408F | Lichen planus of vuvla
+X507y | Erosive lichen planus of vulva
+X507z | Lichen planus of penis
+X5080 | Lichen planus of glans penis 
+M1707 | Lichen planus obtusus
+M1708 | Subacute active lichen planus
+M170z | Lichen planus NOS
+Myu32 | [X]Other lichen planus
+M17y0 | Lichen ruber moniliforme 
+M1650 | Pityriasis alba
+M2102 | Lichen sclerosus
+X50FC | Genital lichen sclerosus
+K276. | Balanitis xerotica obliterans
+X50FE | Lichen sclerosus of vulva
+X50FF | Extra genital lichen sclerosus
+X50FG | Guttate lichen sclerosus
+
+SNOMED Code | Description
+277787003 | Post-inflammatory hypopigmentation (disorder)
+403272001 | Post-infective hypomelanosis (disorder)
+403276003 | Acquired hypomelanosis of uncertain etiology (disorder)
+4776004 | Lichen planus (disorder)
+263797007 | Lichen planus-like (qualifier value)
+4459000 | Linear lichen planus (disorder)
+6111009 | Bullous lichen planus (disorder)
+238666005 | Lichen planus of lips (disorder)
+201001005 | Lichen planus obtusus (disorder)
+200999007 | Actinic lichen planus (disorder)
+238658001 | Lichen planus of nail (disorder)
+238668006 | Genital lichen planus (disorder)
+201000006 | Annular lichen planus (disorder)
+238647005 | Guttate lichen planus (disorder)
+237112004 | Lichen planus of vulva (disorder)
+400108007 | Flexural lichen planus (disorder)
+238655003 | Lichen planus of scalp (disorder)
+44509000 | Linear lichen planus (disorder)
+25858008 | Atrophic lichen planus (disorder)
+238670002 | Lichen planus of penis (disorder)
+238645002 | Confluent lichen planus (disorder)
+717061002 | Lichen planus pigmentosus (disorder)
+238648000 | Zosteriform lichen planus (disorder)
+238653005 | Lichen planus pemphigoides (disorder)
+68266006 | Hypertrophic lichen planus (disorder)
+238646001 | Micropapular lichen planus (disorder)
+64540004 | Lichen planopilaris (disorder)
+238654004 | Site-specific lichen planus (disorder)
+238652000 | Lichen planus-lupus erythematosus overlap (disorder)
+403198004 | Lichenoid actinic keratosis (disorder)
+723003004 | Acute eruptive lichen planus (disorder)
+238671003 | Lichen planus of glans penis (disorder)
+68266006 |  Hypertrophic lichen planus (disorder)
+201002003 | Subacute active lichen planus (disorder)
+720493003 | Annular atrophic lichen planus (disorder)
+238651007 | Wickham's striae in lichen planus (disorder)
+201001005 | Lichen planus obtusus (disorder)
+402349005 | Chronic lichen planus (disorder)
+238668006 | Genital lichen planus (disorder)
+238656002 | Lichen planus of palms and soles (disorder)
+402352002 | Poikiloderma due to lichen planus (disorder)
+721171007 | Hypertrophic lichen planus of vulva (disorder)
+402348002 | Köbner reaction from lichen planus (disorder)
+238657006 | Ulcerative lichen planus of palms and soles (disorder)
+238660004 | Mutilating lichen planus of fingers and toes (disorder)
+726476005 | Lichen planus co-occurrent with onycholysis (disorder)
+238649008 | Post-inflammatory hyperpigmentation in lichen planus (disorder)
+402296004 | Pityriasis alba (disorder)
+402298003 | Diffuse pityriasis alba (disorder)
+402297008 | Localised pityriasis alba (disorder)
+25674000 | Lichen sclerosus et atrophicus (disorder)
+402423004 | Adult lichen sclerosus (disorder)
+782666006 | Lichen sclerosus of anus (disorder)
+238934003 | Guttate lichen sclerosus (disorder)
+238932004 | Genital lichen sclerosus (disorder)
+700082001 | Lichen sclerosus of penis (disorder)
+26348009 | Lichen sclerosus et atrophicus of the vulva (disorder)
+402424005 | Childhood lichen sclerosus (disorder)
+403566002 | Anogenital lichen sclerosus (disorder)
+238933009 | Extragenital lichen sclerosus (disorder)
+402714001 | Lichen sclerosus of male genitalia (disorder)
+402715000 | Lichen sclerosus of female genitalia (disorder)
+402422009 | Bullous extragenital lichen sclerosus (disorder)
+721199003 | Prepubertal lichen sclerosus of vulva (disorder)
+403568001 | Localized extragenital lichen sclerosus (disorder)
+402421002 | Generalized extragenital lichen sclerosus (disorder)
+403564004 | Lichen sclerosus of penis, childhood form (disorder)
+111023000 | Lichen sclerosus et atrophicus, bullous type (disorder)
+403565003 | Vulval lichen sclerosus, childhood form (disorder)
+198033005 | Balanitis xerotica obliterans (disorder)
+
 Post Traumatic Leukoderma
-SNOMED Code	Description
-402622001	Hypomelanosis due to scarring (disorder)
-18655006	Depigmentation (morphologic abnormality)
-23006000	Hypopigmentation of skin (disorder)
-398656003	Acquired hypomelanotic disorder (disorder)
+SNOMED Code | Description
+402622001 | Hypomelanosis due to scarring (disorder)
+18655006 | Depigmentation (morphologic abnormality)
+23006000 | Hypopigmentation of skin (disorder)
+398656003 | Acquired hypomelanotic disorder (disorder)
+
 Para-Malignant Hypomelanoses
-Read V2 Code	Description
-B621.	Mycosis fungoides
-B6210	Mycosis fungoides of unspecified site
-B6211	Mycosis fungoides of lymph nodes of head, face and neck
-B6212	Mycosis fungoides of intrathoracic lymph nodes
-B6213	Mycosis fungoides of intra-abdominal lymph nodes
-B6214	Mycosis fungoides of lymph nodes of axilla and upper limb
-B6215	Mycosis fungoides of lymph nodes of inguinal region and leg 
-B6216	Mycosis fungoides of intrapelvic lymph nodes 
-B6217	Mycosis fungoides of spleen
-B6218	Mycosis fungoides of lymph nodes of multiple sites
-B621z	Mycosis fungoides NOS
-BBI..	[M]Mycosis fungoides
-BBI0.	[M]Mycosis fungoides
-BBI1.	[M]Sezary's disease
-BBIz.	[M]Mycosis fungoides NOS
-B62xX	0th and unspecif peripheral & cutaneous T-cell lymphomas
-B62E7	Subcutaneous panniculitis like T-cell lymphoma
-BBmD.	[M]Cutaneous lymphoma 
-B622.	Sezary's disease
-B6220	Sezary's disease of unspecified site
-B6221	Sezary's disease of lymph nodes of head, face and neck
-B6222	Sezary's disease of intrathoracic lymph nodes
-B6223	Sezary's disease of intra-abdominal lymph nodes
-B6224	Sezary's disease of lymph nodes of axilla and upper limb
-B6225	Sezary's disease of lymph nodes of inguinal region and leg 
-B6226	Sezary's disease of intrapelvic lymph nodes 
-B6227	Sezary's disease of spleen
-B6228	Sezary's disease of lymph nodes of multiple sites
-B622z	Sezary's disease NOS
-BBEA.	Amelanotic melanoma
-Read CTV3 Code	Description
-B621.	Mycosis fungoides
-XaQbT	Poikiloderma vasculare atrophicans
-X78hm	Mycosis fungoides of skin
-B6210	Mycosis fungoides of unspecified site
-B6211	Mycosis fungoides of lymph nodes of head, face and neck
-B6212	Mycosis fungoides of intrathoracic lymph nodes
-B6213	Mycosis fungoides of intra-abdominal lymph nodes
-B6214	Mycosis fungoides of lymph nodes of axilla and upper limb
-B6215	Mycosis fungoides of lymph nodes of inguinal region and leg 
-B6216	Mycosis fungoides of intrapelvic lymph nodes 
-B6217	Mycosis fungoides of spleen
-B6218	Mycosis fungoides of lymph nodes of multiple sites
-B621z	Mycosis fungoides NOS
-B622.	Sezary's disease
-B6220	Sezary's disease of unspecified site
-B6221	Sezary's disease of lymph nodes of head, face and neck
-B6222	Sezary's disease of intrathoracic lymph nodes
-B6223	Sezary's disease of intra-abdominal lymph nodes
-B6224	Sezary's disease of lymph nodes of axilla and upper limb
-B6225	Sezary's disease of lymph nodes of inguinal region and leg 
-B6226	Sezary's disease of intrapelvic lymph nodes 
-B6227	Sezary's disease of spleen
-B6228	Sezary's disease of lymph nodes of multiple sites
-B622z	Sezary's disease NOS
-X78hn	Sezary's disease of skin
-X78hl	Cutaneous lymphoma
-XaYin	Cutaneous follicle centre lymphoma
-Xa0Sz	Cutaneous/peripheral T-cell lymphoma
-XaYjf	Subcutaneous panniculitis like T-cell lymphoma
-ByuDD	[X]0th and unspecif peripheral & cutaneous T-cell lymphomas
-XaYjl	Primary cutaneous CD30 antigen positive large T-cell lymphoma
-XaOCE	Amelanotic malignant melanoma of skin 
-SNOMED Code	Description
-90120004	Mycosis fungoides (morphologic abnormality)
-118618005	Mycosis fungoides (disorder)
-765328000	Classic mycosis fungoides (disorder)
-404115006	Bullous mycosis fungoides (disorder)
-94714002	Mycosis fungoides of spleen (disorder)
-404117003	Spongiotic mycosis fungoides (disorder)
-681291000119105	History of mycosis fungoides (situation)
-418628003	Follicular mycosis fungoides (morphologic abnormality)
-404113004	Tumour stage mycosis fungoides (disorder)
-404118008	Syrngotropic mycosis fungoides (disorder)
-404112009	Granulomatous mycosis fungoides (disorder)
-404114005	Erythrodermic mycosis fungoides (disorder)
-404110001	Hypomelanocytic mycosis fungoides (disorder)
-404109006	Folliculotropic mycosis fungoides (disorder)
-404108003	Pokilodermatous mycosis fungoides (disorder)
-404107008	Patch/plaque stage mycosis fungoides (disorder)
-404116007	Mycosis fungoides with systemic infiltration (disorder)
-94708009	Mycosis fungoides of intrapelvic lymph nodes (disorder)
-94707004	Mycosis fungoides of intra-abdominal lymph nodes (disorder)
-188627002	Mycosis fungoides of  lymph nodes of multiple sites (disorder)
-404111002	Lymphomatoid papulosis-associated mycosis fungoides (disorder)
-404104001	Lymphomatoid papulosis type B mycosis fungoides-like (disorder)
-94715001	Mycosis fungoides of extranodal AND/OR solid organ site (disorder)
-94709001	Mycosis fungoides of intrathoracic lymph nodes (disorder)
-94711005	Mycosis fungoides of lymph nodes of head, face AND/OR neck (disorder)
-94710006	Mycosis fungoides of lymph nodes of axilla AND/OR upper limb (disorder)
-188627002	Mycosis fungoides of lymph nodes of multiple sites (disorder)
-94712003	Mycosis fungoides of lymph nodes of inguinal region AND/OR lower limb (disorder)
-28054005	Cutaneous T-cell lymphoma, no International Classifcation of Diseases for oncology subtype (morphologic abnormality)
-40012207	Primary cutaneous T-cell lymphoma (disorder)
-277613000	Cutaneous/peripheral T-cell lymphoma (disorder)
-404128004	CD-30 negative cutanoeus T-cell lymphoma (disorder)
-419283005	Primary cutaneous T-cell lymphoma - category (morphologic abnormality)
-128804002	Primary cutaneous CD30 antigen positive T-cell lymphoproliferative disorder (morphologic abnormality)
-450908002	Primary cutaneous gamma-delta T-cell lymphoma (morphologic abnormality)
-122571000119106	History of primary cutaneous T-cell lymphoma (situation)
-419018000	Primary cutaneous large T-cell lymphoma - category (morphologic abnormality)
-402880009	Primary cutaneous large T-cell lymphoma (disorder)
-404133000	Subcutaneous panniculitic cutaneous T-cell lymphoma (disorder)
-404128004	CD-30 negative cutaneous T-cell lymphoma (disorder)
-787198005	Primary cutaneous acral CD8 positive T-cell lymphoma (morphologic abnormality)
-397352006	Primary cutaneous anaplastic large T-cell lymphoma, CD30-positive (morphologic abnormality)
-733627006	Primary cutaneous gamma-delta-positive T-cell lymphoma (disorder)
-404129007	CD-30 negative anaplastic large T-cell cutaneous lymphoma (disorder)
-122571000119106	History of malignant cutaneous T-cell lymphoma (situation)
-404130002	CD-30 negative pleomorphic large T-cell cutaneous lymphoma (disorder)
-404126000	CD-30 positive pleomorphic large T-cell cutaneous lymphoma (disorder)
-419283005	Primary cutaneous T-cell lymphoma - category (morphologic abnormality)
-450908002	Primary cutaneous gamma-delta T-cell lymphoma - category (morphologic abnormality)
-765136002	Primary cutaneous CD8 positive aggressicve epidermotropic cytotoxic T-cell lymphoma (disorder)
-128875000	Primary cutaneous CD30 antigen positive large T-cell lymphoma (disorder)
-733895005	Primary cutaneous CD8 positive aggressicve epidermotropic cytotoxic T-cell lymphoma (morphologic abnormality)
-419586003	Primary cutaneous T-cell lymphoma, large cell, CD30-negative (morphological abnormality)
-118611004	Sezary's disease (disorder)
-4950009	Sezary's disease (morphologic abnormality)
-255101006	Sezary disease of skin (disorder)
-95263006	Sezary's disase of spleen (disorder)
-188632001	Sezary's disase of intra-abdominal lymph nodes (disorder)
-188635004	Sezary's disase of intrapelvic lymph nodes (disorder)
-188631008	Sezary's disase of intrathoracic lymph nodes (disorder)
-188637007	Sezary disease of lymph nodes of multiple sites (disorder)
-95264000	Sézary's disease of extranodal AND/OR solid organ site (disorder)
- 188633006	Sézary's disease of lymph nodes of axilla and upper limb (disorder)
-95260009	Sézary's disease of lymph nodes of head, face AND/OR neck (disorder)
-188634000	Sézary's disease of lymph nodes of inguinal region and lower limb (disorder)
-95261008	Sézary's disease of lymph nodes of inguinal region AND/OR lower limb (disorder)
-419392005	Primary cutaneous lymphoma (morphologic abnormality)
-82321000000106	Tumour and germline whole genome sequencing for anaplastic lymphoma kinase negative anaplastic large cell lymphoma including primary cutaneous subtypes (procedure)
-403274000	Hypomelanosis surrounding malignant melanoma (disorder)
-402563000	Metastatic malignant melanoma with diffuse hypermelanosis (disorder)
-276751004	Amelanotic malignant melanoma of skin (disorder)
-70594002	Amelanotic melanoma (morphologic abnormality)
-404110001	Hypomelanotic mycosis fungoides (disorder)
-402623006	Hypomelanosis surrounding melanocytic neoplasm (disorder)
+Read V2 Code | Description
+B621. | Mycosis fungoides
+B6210 | Mycosis fungoides of unspecified site
+B6211 | Mycosis fungoides of lymph nodes of head, face and neck
+B6212 | Mycosis fungoides of intrathoracic lymph nodes
+B6213 | Mycosis fungoides of intra-abdominal lymph nodes
+B6214 | Mycosis fungoides of lymph nodes of axilla and upper limb
+B6215 | Mycosis fungoides of lymph nodes of inguinal region and leg 
+B6216 | Mycosis fungoides of intrapelvic lymph nodes 
+B6217 | Mycosis fungoides of spleen
+B6218 | Mycosis fungoides of lymph nodes of multiple sites
+B621z | Mycosis fungoides NOS
+BBI.. | [M]Mycosis fungoides
+BBI0. | [M]Mycosis fungoides
+BBI1. | [M]Sezary's disease
+BBIz. | [M]Mycosis fungoides NOS
+B62xX | 0th and unspecif peripheral & cutaneous T-cell lymphomas
+B62E7 | Subcutaneous panniculitis like T-cell lymphoma
+BBmD. | [M]Cutaneous lymphoma 
+B622. | Sezary's disease
+B6220 | Sezary's disease of unspecified site
+B6221 | Sezary's disease of lymph nodes of head, face and neck
+B6222 | Sezary's disease of intrathoracic lymph nodes
+B6223 | Sezary's disease of intra-abdominal lymph nodes
+B6224 | Sezary's disease of lymph nodes of axilla and upper limb
+B6225 | Sezary's disease of lymph nodes of inguinal region and leg 
+B6226 | Sezary's disease of intrapelvic lymph nodes 
+B6227 | Sezary's disease of spleen
+B6228 | Sezary's disease of lymph nodes of multiple sites
+B622z | Sezary's disease NOS
+BBEA. | Amelanotic melanoma
+
+Read CTV3 Code | Description
+B621. | Mycosis fungoides
+XaQbT | Poikiloderma vasculare atrophicans
+X78hm | Mycosis fungoides of skin
+B6210 | Mycosis fungoides of unspecified site
+B6211 | Mycosis fungoides of lymph nodes of head, face and neck
+B6212 | Mycosis fungoides of intrathoracic lymph nodes
+B6213 | Mycosis fungoides of intra-abdominal lymph nodes
+B6214 | Mycosis fungoides of lymph nodes of axilla and upper limb
+B6215 | Mycosis fungoides of lymph nodes of inguinal region and leg 
+B6216 | Mycosis fungoides of intrapelvic lymph nodes 
+B6217 | Mycosis fungoides of spleen
+B6218 | Mycosis fungoides of lymph nodes of multiple sites
+B621z | Mycosis fungoides NOS
+B622. | Sezary's disease
+B6220 | Sezary's disease of unspecified site
+B6221 | Sezary's disease of lymph nodes of head, face and neck
+B6222 | Sezary's disease of intrathoracic lymph nodes
+B6223 | Sezary's disease of intra-abdominal lymph nodes
+B6224 | Sezary's disease of lymph nodes of axilla and upper limb
+B6225 | Sezary's disease of lymph nodes of inguinal region and leg 
+B6226 | Sezary's disease of intrapelvic lymph nodes 
+B6227 | Sezary's disease of spleen
+B6228 | Sezary's disease of lymph nodes of multiple sites
+B622z | Sezary's disease NOS
+X78hn | Sezary's disease of skin
+X78hl | Cutaneous lymphoma
+XaYin | Cutaneous follicle centre lymphoma
+Xa0Sz | Cutaneous/peripheral T-cell lymphoma
+XaYjf | Subcutaneous panniculitis like T-cell lymphoma
+ByuDD | [X]0th and unspecif peripheral & cutaneous T-cell lymphomas
+XaYjl | Primary cutaneous CD30 antigen positive large T-cell lymphoma
+XaOCE | Amelanotic malignant melanoma of skin 
+
+SNOMED Code | Description
+90120004 | Mycosis fungoides (morphologic abnormality)
+118618005 | Mycosis fungoides (disorder)
+765328000 | Classic mycosis fungoides (disorder)
+404115006 | Bullous mycosis fungoides (disorder)
+94714002 | Mycosis fungoides of spleen (disorder)
+404117003 | Spongiotic mycosis fungoides (disorder)
+681291000119105 | History of mycosis fungoides (situation)
+418628003 | Follicular mycosis fungoides (morphologic abnormality)
+404113004 | Tumour stage mycosis fungoides (disorder)
+404118008 | Syrngotropic mycosis fungoides (disorder)
+404112009 | Granulomatous mycosis fungoides (disorder)
+404114005 | Erythrodermic mycosis fungoides (disorder)
+404110001 | Hypomelanocytic mycosis fungoides (disorder)
+404109006 | Folliculotropic mycosis fungoides (disorder)
+404108003 | Pokilodermatous mycosis fungoides (disorder)
+404107008 | Patch/plaque stage mycosis fungoides (disorder)
+404116007 | Mycosis fungoides with systemic infiltration (disorder)
+94708009 | Mycosis fungoides of intrapelvic lymph nodes (disorder)
+94707004 | Mycosis fungoides of intra-abdominal lymph nodes (disorder)
+188627002 | Mycosis fungoides of  lymph nodes of multiple sites (disorder)
+404111002 | Lymphomatoid papulosis-associated mycosis fungoides (disorder)
+404104001 | Lymphomatoid papulosis type B mycosis fungoides-like (disorder)
+94715001 | Mycosis fungoides of extranodal AND/OR solid organ site (disorder)
+94709001 | Mycosis fungoides of intrathoracic lymph nodes (disorder)
+94711005 | Mycosis fungoides of lymph nodes of head, face AND/OR neck (disorder)
+94710006 | Mycosis fungoides of lymph nodes of axilla AND/OR upper limb (disorder)
+188627002 | Mycosis fungoides of lymph nodes of multiple sites (disorder)
+94712003 | Mycosis fungoides of lymph nodes of inguinal region AND/OR lower limb (disorder)
+28054005 | Cutaneous T-cell lymphoma, no International Classifcation of Diseases for oncology subtype (morphologic abnormality)
+40012207 | Primary cutaneous T-cell lymphoma (disorder)
+277613000 | Cutaneous/peripheral T-cell lymphoma (disorder)
+404128004 | CD-30 negative cutanoeus T-cell lymphoma (disorder)
+419283005 | Primary cutaneous T-cell lymphoma - category (morphologic abnormality)
+128804002 | Primary cutaneous CD30 antigen positive T-cell lymphoproliferative disorder (morphologic abnormality)
+450908002 | Primary cutaneous gamma-delta T-cell lymphoma (morphologic abnormality)
+122571000119106 | History of primary cutaneous T-cell lymphoma (situation)
+419018000 | Primary cutaneous large T-cell lymphoma - category (morphologic abnormality)
+402880009 | Primary cutaneous large T-cell lymphoma (disorder)
+404133000 | Subcutaneous panniculitic cutaneous T-cell lymphoma (disorder)
+404128004 | CD-30 negative cutaneous T-cell lymphoma (disorder)
+787198005 | Primary cutaneous acral CD8 positive T-cell lymphoma (morphologic abnormality)
+397352006 | Primary cutaneous anaplastic large T-cell lymphoma, CD30-positive (morphologic abnormality)
+733627006 | Primary cutaneous gamma-delta-positive T-cell lymphoma (disorder)
+404129007 | CD-30 negative anaplastic large T-cell cutaneous lymphoma (disorder)
+122571000119106 | History of malignant cutaneous T-cell lymphoma (situation)
+404130002 | CD-30 negative pleomorphic large T-cell cutaneous lymphoma (disorder)
+404126000 | CD-30 positive pleomorphic large T-cell cutaneous lymphoma (disorder)
+419283005 | Primary cutaneous T-cell lymphoma - category (morphologic abnormality)
+450908002 | Primary cutaneous gamma-delta T-cell lymphoma - category (morphologic abnormality)
+765136002 | Primary cutaneous CD8 positive aggressicve epidermotropic cytotoxic T-cell lymphoma (disorder)
+128875000 | Primary cutaneous CD30 antigen positive large T-cell lymphoma (disorder)
+733895005 | Primary cutaneous CD8 positive aggressicve epidermotropic cytotoxic T-cell lymphoma (morphologic abnormality)
+419586003 | Primary cutaneous T-cell lymphoma, large cell, CD30-negative (morphological abnormality)
+118611004 | Sezary's disease (disorder)
+4950009 | Sezary's disease (morphologic abnormality)
+255101006 | Sezary disease of skin (disorder)
+95263006 | Sezary's disase of spleen (disorder)
+188632001 | Sezary's disase of intra-abdominal lymph nodes (disorder)
+188635004 | Sezary's disase of intrapelvic lymph nodes (disorder)
+188631008 | Sezary's disase of intrathoracic lymph nodes (disorder)
+188637007 | Sezary disease of lymph nodes of multiple sites (disorder)
+95264000 | Sézary's disease of extranodal AND/OR solid organ site (disorder)
+188633006 | Sézary's disease of lymph nodes of axilla and upper limb (disorder)
+95260009 | Sézary's disease of lymph nodes of head, face AND/OR neck (disorder)
+188634000 | Sézary's disease of lymph nodes of inguinal region and lower limb (disorder)
+95261008 | Sézary's disease of lymph nodes of inguinal region AND/OR lower limb (disorder)
+419392005 | Primary cutaneous lymphoma (morphologic abnormality)
+82321000000106 | Tumour and germline whole genome sequencing for anaplastic lymphoma kinase negative anaplastic large cell lymphoma including primary cutaneous subtypes (procedure)
+403274000 | Hypomelanosis surrounding malignant melanoma (disorder)
+402563000 | Metastatic malignant melanoma with diffuse hypermelanosis (disorder)
+276751004 | Amelanotic malignant melanoma of skin (disorder)
+70594002 | Amelanotic melanoma (morphologic abnormality)
+404110001 | Hypomelanotic mycosis fungoides (disorder)
+402623006 | Hypomelanosis surrounding melanocytic neoplasm (disorder)
 Occupational/drug induced hypomelanoses
-Read V2 Code	Description
-M293.	Hypopigmentation
-Read CTV3 Code	Description
-X508z	Occupational vitiligo
-X78VE	Chemically-induced hypomelanosis
-X50Gx	Drug-induced hypomelanosis 
-Xa1aV	Chemically-induced hypomelanosis
-M2950	Leucoderma aestivale
-M295.	Acquired hypomelanosis
-SNOMED Code	Description
-238713002	Occupational vitiligo (disorder)
-280962005	Chemically-induced hypomelanosis (disorder)
-402622001	Hypomelanosis due to scarring (disorder)
-403807001	Phylloid hypomelanosis (disorder)
-398656003	Acquired hypomelanotic disorder (disorder)
-238999005	Drug-induced hypomelanosis (disorder)
-403698000	Laser-induced hypopigmentation (disorder)
-402622001	Hypomelanosis due to scarring (disorder)
-280962005	Chemically-induced hypomelanosis (disorder)
-403692004	Hypomelanosis due to cryotherapy (disorder)
-403744007	Arsenic-induced "rain-drop" hypomelanosis (disorder)
-403698000	Laser-induced hypopigmentation (disorder)
- 201290009	Leukoderma estivale (disorder)
+
+Read V2 Code | Description
+M293. | Hypopigmentation
+
+Read CTV3 Code | Description
+X508z | Occupational vitiligo
+X78VE | Chemically-induced hypomelanosis
+X50Gx | Drug-induced hypomelanosis 
+Xa1aV | Chemically-induced hypomelanosis
+M2950 | Leucoderma aestivale
+M295. | Acquired hypomelanosis
+
+SNOMED Code | Description
+238713002 | Occupational vitiligo (disorder)
+280962005 | Chemically-induced hypomelanosis (disorder)
+402622001 | Hypomelanosis due to scarring (disorder)
+403807001 | Phylloid hypomelanosis (disorder)
+398656003 | Acquired hypomelanotic disorder (disorder)
+238999005 | Drug-induced hypomelanosis (disorder)
+403698000 | Laser-induced hypopigmentation (disorder)
+402622001 | Hypomelanosis due to scarring (disorder)
+280962005 | Chemically-induced hypomelanosis (disorder)
+403692004 | Hypomelanosis due to cryotherapy (disorder)
+403744007 | Arsenic-induced "rain-drop" hypomelanosis (disorder)
+403698000 | Laser-induced hypopigmentation (disorder)
+201290009 | Leukoderma estivale (disorder)
 Para-infectious hypopigmentation
-Read V2 Code	Description
-AB10.	Pityriasis versicolor
-Read CTV3 Code	Description
-AB10.	Pityriasis versicolor
-SNOMED Code	Description
-56454009	Pityriasis versicolor (disorder)
-18097004	Malassezia (organism)
-721794002	Infection caused by Malassezia (disorder)
-402133004	Malassezia infection of the skin (disorder)
-29619007	Malassezia furfur (organism)
+
+Read V2 Code | Description
+AB10. | Pityriasis versicolor
+
+Read CTV3 Code | Description
+AB10. | Pityriasis versicolor
+
+SNOMED Code | Description
+56454009 | Pityriasis versicolor (disorder)
+18097004 | Malassezia (organism)
+721794002 | Infection caused by Malassezia (disorder)
+402133004 | Malassezia infection of the skin (disorder)
+29619007 | Malassezia furfur (organism)
+
 Others (including Melasma, Morphoea, Idiopathic guttate hypomelanosis, Xeroderma pigmentosum, Progressive macular hypomelanosis, Nevus depigmentosus, Cutaneous sarcoidosis)
-Read V2 Code	Description
-M290.	Melasma
-M2900	Chloasma bronzinum
-M2901	Chloasma cachecticorum
-M2902	Chloasma caloricum
-M2903	Chloasma gravidarum
-M2903	Chloasma gravidarum
-M2903	Chloasma gravidarum
-M290z	Chloasma NOS
-M2103	Morphoea
-M2104	Linear Morphoea
-M210.	Circumscribed scleroderma
-M2100	Unspecified circumscribed scleroderma
-M2101	Localised dermatosclerosis
-M210z	Circumscribed scleroderma NOS
-PH322	Xeroderma pigmentosum
-BBE9.	[M]Nonpigmented naevus
-AD530	Lupus Pernio
-AD53.	Sarcoidosis of skin
-Read CTV3 Code	Description
-M290.	Melasma
-Xa1aM	Drug-induced melasma
-M2900	Chloasma bronzinum
-M2901	Chloasma cachecticorum
-M2902	Chloasma caloricum
-M2904	Chloasma hepaticum
-M2905	Chloasma toxicum
-M2906	Chloasma traumaticum
-M290z	Chloasma NOS
-M2903	Melasma of pregnancy
-Xa1aM	Drug-induced melasma
-M2103	Morphoea
-X7053	Generalised morphoea
-M2101	Localised morphoea 
-M2100	Unspecified circumscribed scleroderma
-M210z	Circumscribed scleroderma NOS
-X7055	Linear morphoea
-PH322	Xeroderma pigmentosum
-X78Cz	Xeroderma pigmentosum group A
-X78D0	Xeroderma pigmentosum group B
-X78D1	Xeroderma pigmentosum group C
-X78D2	Xeroderma pigmentosum group D
-X78D3	Xeroderma pigmentosum group E
-X78D4	Xeroderma pigmentosum group F
-X78D5	Xeroderma pigmentosum group G
-X78D6	Xeroderma pigmentosum XP variant 
-X78D7	De Sanctis-Cacchione syndrome
-X78D8	Xerodermoid, pigmented
-X50lw	Symmetrical progressive leucopathy
-X20GW	Cutaneous sarcoid
-X20GX	Orofacial sarcoid
-X20GY	Lupus pernio
-X5089	Acute skin sarcoidosis
-X508A	Sarcoidosis-induced erythema nodosum
-X508B	Lofgrens syndrome
-X508C	Maculopapular sarcoidosis
-X508D	Chronic skin sarcoidosis
-X508E	Sarcoidosis in scar
-X508F	Papular sarcoidosis
-X508G	Lichenoid sarcoidosis
-X508H	Nodular sarcoidosis
-X508I	Angiolupoid sarcoidosis
-X00YQ	Sarcoid skin of eyelid 
-X20G5	Sarcoid dactylitis
-X50Dy	Subacute nodular migratory panniculitis 
-X50Dz	Subcutaneous lipogranulomatosis
-SNOMED Code	Description
-36209000	Melasma
-201274009	Chloasma bronzinum (disorder)
-201275005	Chloasma cachecticorum (disorder)
-201276006	Chloasma caloricum (disorder)
-201277002	Chloasma hepaticum (disorder)
-201278007	Chloasma toxicum (disorder)
-280955001	Drug-induced melasma (disorder)
-79840007	Idiopathic chloasma (disorder)
-111208003	Melasma gravidarum (disorder)
-54397000	Symptomatic chloasma (disorder)
-201279004	Chloasma traumaticum (disorder)
-201049004	Morphea (disorder)
-128458002	Plaque morphea (disorder)
-22784002	Linear scleroderma (disorder)
-403521006	Guttate morphea (disorder)
-201048007	Localised morphea (disorder)
-7513007	Generalized morphea (disorder)
-403522004	Subcutaneous morphea (disorder)
-51156002	Coup de sabre scleroderma (disorder)
-403523009	Disabling pansclerotic morphea of children (disorder)
-128460000	Diffuse cutaneous scleroderma (disorder)
-403524003	Scleroderma-like secondary cutaneous sclerosis (disorder)
- 1717003	Idiopathic guttate hypomelanosis (disorder)
-711154007	Guttate hypopigmentation and punctate palmoplantar keratoderma with or without ectopic calcification (disorder)
-44600005	Xeroderma pigmentosum (disorder)
-56048001	Xeroderma pigmentosum, group E (disorder)
-25784009	Xeroderma pigmentosum, group C (disorder)
-36454001	Xeroderma pigmentosum, group G (disorder)
-1073003	Xeroderma pigmentosum, group B (disorder)
-68637004	Xeroderma pigmentosum, group D (disorder)
-42530008	Xeroderma pigmentosum, group F (disorder)
-43477006	Xeroderma pigmentosum, group A (disorder)
-73663008	 Neurologic xeroderma pigmentosum (disorder)
-88877002	Xeroderma pigmentosum, variant form (disorder)
-7806002	Non-neurologic xeroderma pigmentosum (disorder)
-719819004	Xeroderma pigmentosum and Cockayne syndrome complex (disorder)
-239083007	Symmetrical progressive leucopathy (disorder)
-763368004	Familial progressive hyper and hypopigmentation of skin (disorder)
-403541001	Nevus depigmentosus
-112680001	Naevus depigmentosus
-55941000	Cutaneous sarcoidosis (disorder)
-238680003	Papular sarcoidosis (disorder)
- 238679001	Sarcoidosis in scar (disorder)
-402369000	Atrophic sarcoidosis (disorder)
-402371000	Verrucous sarcoidosis (disorder)
- 238681004	Lichenoid sarcoidosis (disorder)
-238674006	Acute skin sarcoidosis (disorder)
-402370004	Ulcerative sarcoidosis (disorder)
-58870009	Sarcoidosis, anular type (disorder)
-54515008	Sarcoidosis, plaque type (disorder)
-80941006	Subcutaneous sarcoidosis (disorder)
- 870334009	Palmoplantar sarcoidosis (disorder)
-238678009	Chronic skin sarcoidosis (disorder)
-238677004	Maculopapular sarcoidosis (disorder)
-402368008	Ichthyosiform sarcoidosis (disorder)
-402373002	Hypomelanotic sarcoidosis (disorder)
-9529007	Sarcoidosis, erythrodermic type (disorder)
-72470008	Sarcoidosis, lupus pernio type (disorder)
-402372007	Subcutaneous nodular sarcoidosis (disorder)
- 238675007	Sarcoidosis-induced erythema nodosum (disorder)
-238676008	Lofgrens syndrome (disorder)
-31541009	Lupus pernio of Besnier
-231799005	Sarcoid skin of eyelid (disorder)
+Read V2 Code | Description
+M290. | Melasma
+M2900 | Chloasma bronzinum
+M2901 | Chloasma cachecticorum
+M2902 | Chloasma caloricum
+M2903 | Chloasma gravidarum
+M2903 | Chloasma gravidarum
+M2903 | Chloasma gravidarum
+M290z | Chloasma NOS
+M2103 | Morphoea
+M2104 | Linear Morphoea
+M210. | Circumscribed scleroderma
+M2100 | Unspecified circumscribed scleroderma
+M2101 | Localised dermatosclerosis
+M210z | Circumscribed scleroderma NOS
+PH322 | Xeroderma pigmentosum
+BBE9. | [M]Nonpigmented naevus
+AD530 | Lupus Pernio
+AD53. | Sarcoidosis of skin
+
+Read CTV3 Code | Description
+M290. | Melasma
+Xa1aM | Drug-induced melasma
+M2900 | Chloasma bronzinum
+M2901 | Chloasma cachecticorum
+M2902 | Chloasma caloricum
+M2904 | Chloasma hepaticum
+M2905 | Chloasma toxicum
+M2906 | Chloasma traumaticum
+M290z | Chloasma NOS
+M2903 | Melasma of pregnancy
+Xa1aM | Drug-induced melasma
+M2103 | Morphoea
+X7053 | Generalised morphoea
+M2101 | Localised morphoea 
+M2100 | Unspecified circumscribed scleroderma
+M210z | Circumscribed scleroderma NOS
+X7055 | Linear morphoea
+PH322 | Xeroderma pigmentosum
+X78Cz | Xeroderma pigmentosum group A
+X78D0 | Xeroderma pigmentosum group B
+X78D1 | Xeroderma pigmentosum group C
+X78D2 | Xeroderma pigmentosum group D
+X78D3 | Xeroderma pigmentosum group E
+X78D4 | Xeroderma pigmentosum group F
+X78D5 | Xeroderma pigmentosum group G
+X78D6 | Xeroderma pigmentosum XP variant 
+X78D7 | De Sanctis-Cacchione syndrome
+X78D8 | Xerodermoid, pigmented
+X50lw | Symmetrical progressive leucopathy
+X20GW | Cutaneous sarcoid
+X20GX | Orofacial sarcoid
+X20GY | Lupus pernio
+X5089 | Acute skin sarcoidosis
+X508A | Sarcoidosis-induced erythema nodosum
+X508B | Lofgrens syndrome
+X508C | Maculopapular sarcoidosis
+X508D | Chronic skin sarcoidosis
+X508E | Sarcoidosis in scar
+X508F | Papular sarcoidosis
+X508G | Lichenoid sarcoidosis
+X508H | Nodular sarcoidosis
+X508I | Angiolupoid sarcoidosis
+X00YQ | Sarcoid skin of eyelid 
+X20G5 | Sarcoid dactylitis
+X50Dy | Subacute nodular migratory panniculitis 
+X50Dz | Subcutaneous lipogranulomatosis
+
+SNOMED Code | Description
+36209000 | Melasma
+201274009 | Chloasma bronzinum (disorder)
+201275005 | Chloasma cachecticorum (disorder)
+201276006 | Chloasma caloricum (disorder)
+201277002 | Chloasma hepaticum (disorder)
+201278007 | Chloasma toxicum (disorder)
+280955001 | Drug-induced melasma (disorder)
+79840007 | Idiopathic chloasma (disorder)
+111208003 | Melasma gravidarum (disorder)
+54397000 | Symptomatic chloasma (disorder)
+201279004 | Chloasma traumaticum (disorder)
+201049004 | Morphea (disorder)
+128458002 | Plaque morphea (disorder)
+22784002 | Linear scleroderma (disorder)
+403521006 | Guttate morphea (disorder)
+201048007 | Localised morphea (disorder)
+7513007 | Generalized morphea (disorder)
+403522004 | Subcutaneous morphea (disorder)
+51156002 | Coup de sabre scleroderma (disorder)
+403523009 | Disabling pansclerotic morphea of children (disorder)
+128460000 | Diffuse cutaneous scleroderma (disorder)
+403524003 | Scleroderma-like secondary cutaneous sclerosis (disorder)
+1717003 | Idiopathic guttate hypomelanosis (disorder)
+711154007 | Guttate hypopigmentation and punctate palmoplantar keratoderma with or without ectopic calcification (disorder)
+44600005 | Xeroderma pigmentosum (disorder)
+56048001 | Xeroderma pigmentosum, group E (disorder)
+25784009 | Xeroderma pigmentosum, group C (disorder)
+36454001 | Xeroderma pigmentosum, group G (disorder)
+1073003 | Xeroderma pigmentosum, group B (disorder)
+68637004 | Xeroderma pigmentosum, group D (disorder)
+42530008 | Xeroderma pigmentosum, group F (disorder)
+43477006 | Xeroderma pigmentosum, group A (disorder)
+73663008 |  Neurologic xeroderma pigmentosum (disorder)
+88877002 | Xeroderma pigmentosum, variant form (disorder)
+7806002 | Non-neurologic xeroderma pigmentosum (disorder)
+719819004 | Xeroderma pigmentosum and Cockayne syndrome complex (disorder)
+239083007 | Symmetrical progressive leucopathy (disorder)
+763368004 | Familial progressive hyper and hypopigmentation of skin (disorder)
+403541001 | Nevus depigmentosus
+112680001 | Naevus depigmentosus
+55941000 | Cutaneous sarcoidosis (disorder)
+238680003 | Papular sarcoidosis (disorder)
+238679001 | Sarcoidosis in scar (disorder)
+402369000 | Atrophic sarcoidosis (disorder)
+402371000 | Verrucous sarcoidosis (disorder)
+238681004 | Lichenoid sarcoidosis (disorder)
+238674006 | Acute skin sarcoidosis (disorder)
+402370004 | Ulcerative sarcoidosis (disorder)
+58870009 | Sarcoidosis, anular type (disorder)
+54515008 | Sarcoidosis, plaque type (disorder)
+80941006 | Subcutaneous sarcoidosis (disorder)
+870334009 | Palmoplantar sarcoidosis (disorder)
+238678009 | Chronic skin sarcoidosis (disorder)
+238677004 | Maculopapular sarcoidosis (disorder)
+402368008 | Ichthyosiform sarcoidosis (disorder)
+402373002 | Hypomelanotic sarcoidosis (disorder)
+9529007 | Sarcoidosis, erythrodermic type (disorder)
+72470008 | Sarcoidosis, lupus pernio type (disorder)
+402372007 | Subcutaneous nodular sarcoidosis (disorder)
+238675007 | Sarcoidosis-induced erythema nodosum (disorder)
+238676008 | Lofgrens syndrome (disorder)
+31541009 | Lupus pernio of Besnier
+231799005 | Sarcoid skin of eyelid (disorder)
