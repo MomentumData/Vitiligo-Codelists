@@ -1,0 +1,56 @@
+Read V2 Code | Description
+9D1.. | MED3 - doctor's statement
+9D11. | MED3 issued to patient
+9D12. | MED3 duplicate issued
+9D15. | eMED3 (2010) new statement issued, not fit for work
+9D17. | eMED3 (2010) duplicate issued, not fit for work
+9D19. | MED3 (2010) issued by hand, not fit for work
+9D1C. | MED3 (2010) issued to patient
+9D1D. | MED3 (2010) duplicate issued
+9D1E. | MED3 (2010) issued - recommend phased return to work
+9D1F. | MED3 (2010) issued - recommend altered hours
+9D1G. | MED3 (2010) issued - recommend amended duties
+9D1H. | MED3 (2010) issued - recommend workplace adaptation
+9D1Z. | MED3 - NOS
+Read CTV3 Code | Description
+XaBHd | MED3 status
+9D11. | MED3 issued to patient
+9D12. | MED3 duplicate issued
+9D1Z. | MED3 - NOS
+XaX1E | eMED3 (2010) new statement issued, not fit for work
+XaX1L | eMED3 (2010) duplicate issued, not fit for work
+XaX1R | MED3 (2010) issued by hand, not fit for work
+XaXf1 | MED3 (2010) issued to patient
+XaXf2 | MED3 (2010) duplicate issued
+XaXf3 | MED3 (2010) issued - recommend phased return to work
+XaXf4 | MED3 (2010) issued - recommend altered hours
+XaXf5 | MED3 (2010) issued - recommend amended duties
+SNOMEDCTCodes | Description
+5121000000100 | Med3 certification status (finding)
+775261000000109 | MED3 (2010) certificate duplicate issued (finding)
+775301000000104 | MED3 (2010) certificate issued - recommend altered hours (finding)
+775321000000108 | MED3 (2010) certificate issued - recommend amended duties (finding)
+775281000000100 | MED3 (2010) certificate issued - recommend phased return to work (finding)
+775351000000103 | MED3 (2010) certificate issued - recommend workplace adaptation (finding)
+1341000000107 | Med3 certificate duplicate issued (finding)
+1331000000103 | Med3 certificate issued to patient (finding)
+751641000000105 | eMED3 (2010) duplicate issued, may be fit for work (finding)
+751621000000103 | eMED3 (2010) duplicate issued, not fit for work (finding)
+751601000000107 | eMED3 (2010) new statement issued, may be fit for work (finding)
+751481000000104 | eMED3 (2010) new statement issued, not fit for work (finding)
+751751000000104 |  MED3 (2010) issued by hand, may be fit for work (finding)
+751731000000106 | MED3 (2010) issued by hand, not fit for work (finding)
+14241000000101 | Med3 certificate issued, back to work (finding)
+1351000000105 | Med3 certificate not issued to patient (finding)
+165801000000106 | Sick note generated from secondary care done by practice (finding)
+925481000000108 | Benefits agency reports unfit for work but fit note no longer needed (finding)
+266975006 | Sickness/invalidity benefit (qualifier value)
+160980008 | Statutory sick pay (qualifier value)
+312094004 | Incapacity benefit (qualifier value)
+160979005 | Sickness benefit (qualifier value)
+160910001 | Unfit for work (finding)
+374171000000109 | Benefits agency reports unfit for work (finding)
+304248001 | Unfit for particular post (finding)
+225888002 | Unfit to return to work (finding)
+225890001 | Mentally unfit to return to work (finding)
+225889005 | Physically unfit to return to work (finding)
