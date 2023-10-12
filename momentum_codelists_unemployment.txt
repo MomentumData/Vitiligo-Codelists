@@ -1,0 +1,96 @@
+ReadV2Code | Description
+13J7. | Unemployed
+13J70 | Recently unemployed
+13J71 | Chronic unemployment  
+ZV620 | [V]Unemployment
+13R.. | Unemployment benefits
+13R1. | Unemployment benefit
+13R2. | Redundancy payment
+13RZ. | Unemployment benefit NOS
+13JX. | Time off work
+13JG. | Voluntarily redundant
+13J3. | Loss of job
+13J30 | Sacked from work
+13J8. | Redundant
+13JJ. | Unfit for work
+13JJ0 | Benefit agency reports unfit for work
+13JJ1 | Benefit agency reports unfit for work but fit note no longer required
+13Jk. | Not in employment, education or training
+9DG4. | IB 113 DLS incapacity for work form paid
+9DG2. | IB 113 DLS incapacity for work form sent
+9DG3. | IB 113 DLS incapacity for work form received
+9DG1. | IB 113 DLS incapacity for work form completed
+9DQ3. | ESA113 form paid
+9DQ1. | ESA113 form sent 
+9DQ2. | ESA113 form received
+9DQ0. | ESA113 form completed
+13OD. | Employment and support allowance
+ReadCTV3Code | Description
+13J7. | Unemployed
+13J70 | Recently unemployed
+13J71 | Chronic unemployment  
+ZV620 | [V]Unemployment
+XaPhf | Benefit agency reports unfit for work
+Xabd4 | Benefit agency reports unfit for work but fit note no longer required
+13J8. | Redundant 
+13JG. | Voluntarily redundant 
+Ua2BD | Unfit to return to work
+Ua2BE | Physically unfit for work 
+U12BF | Mentally unfit for work 
+13JX. | Time off work
+XaZHu | ESA113 form paid
+XaZHt | ESA113 form sent 
+XaZHs | ESA113 form received
+XaZHj | ESA113 form completed
+XaBhC | Employment and support allowance
+XacJr | Not in employment, education or training
+XE0pT | Loss of job
+Ua0V9 | Dismissed from job
+Ua0VA | Unfair dismissal from job
+XaClW | IB 113 DLS incapacity for work form paid
+XaCIU | IB 113 DLS incapacity for work form sent
+XaCIV | IB 113 DLS incapacity for work form received
+XaCIT | IB 113 DLS incapacity for work form completed
+13JJ. | Unfit for work
+13J6. | Medically retired
+SNOMEDCTCodes | Description
+266956001 | Loss of job (finding)
+105496009 | Dismissed from job (finding)
+160901009 | Made redundant (finding)
+73438004 | Unemployed (finding)
+160900005 | Chronic unemployment (finding)
+160899000 | Recently unemployed (finding)
+354581000000101 | Unemployed person (person)
+719401000000102 | Unemployed person (qualifier value)
+224474004 | Unfair dismissal from job (finding)
+105498005 | Voluntarily redundant (finding)
+723481000000104 | Youth unemployment (qualifier value)
+161005005 | Unemployment benefits (qualifier value)
+161006006 | Unemployment benefit (qualifier value)
+723971000000106 | Long term unemployment (qualifier value)
+313083007 | Unemployment counseling (procedure)
+313084001 | Redundancy counseling (procedure)
+281559009 | Number of days off work (observable entity)
+160928004 | Amount of time off work (observable entity)
+439907006 | Number of sick days off work in last month (observable entity)
+105495008 | Forced retirement, life event (finding)
+925481000000108 | Benefits agency reports unfit for work but fit note no longer needed (finding)
+161007002 | Redundancy payment (qualifier value)
+160910001 | Unfit for work (finding)
+374171000000109 | Benefits agency reports unfit for work (finding)
+304248001 | Unfit for particular post (finding)
+225888002 | Unfit to return to work (finding)
+225890001 | Mentally unfit to return to work (finding)
+225889005 | Physically unfit to return to work (finding)
+224384002 | Registered with job center (finding)
+224385001 | Registered with work placement officer (finding)
+14121000000104 | IB113 DLS Incapacity for work form sent (finding)
+14141000000106 | IB113 DLS Incapacity for work form paid (finding)
+14131000000102 | IB113 DLS Incapacity for work form received (finding)
+14111000000105 | IB113 DLS Incapacity for work form completed (finding)
+835611000000109 | Employment and support allowance status (finding)
+835641000000105 | Employment and support allowance 113 form completed (finding)
+835711000000103 | Employment and support allowance 113 form paid (finding)
+835691000000100 | Employment and support allowance 113 form received (finding)
+835671000000104 | Employment and support allowance 113 form sent (finding)
+957481000000103 | Not in employment, education or training (finding)
