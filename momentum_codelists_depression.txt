@@ -115,7 +115,7 @@ XaCIu | Severe depression
 E0013 | Presenile dementia with depression
 E0021 | Senile dementia with depression
 
-SNOMED Code,Description
+SNOMED Code | Description
 832007 | Moderate major depression (disorder)
 2618002 | Chronic recurrent major depressive disorder (disorder)
 14070001 | Multi-infarct dementia with depression (disorder)
