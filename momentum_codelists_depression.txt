@@ -49,7 +49,7 @@ Eu331 | [X]Recurrent depressive disorder, current episode moderate
 Eu332 | [X]Recurrent depressive disorder, current episode severe without psychotic symptoms
 Eu333 | [X]Recurrent depressive disorder, current episode severe with psychotic symptoms
 Eu334 | [X]Recurrent depressive disorder, currently in remission
-Eu33y |  [X]Other recurrent depressive disorders
+Eu33y | [X]Other recurrent depressive disorders
 Eu33z | [X]Recurrent depressive disorder, unspecified
 Eu412 | [X]Mixed anxiety and depressive disorder
 
