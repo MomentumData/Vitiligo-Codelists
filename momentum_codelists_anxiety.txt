@@ -1,0 +1,135 @@
+Anxiety episode
+Read V2 Code | Description
+E200. | Anxiety states
+E2000 | Anxiety state unspecified
+E2001 | Panic disorder
+E2002 | Generalised anxiety disorder
+E2003 | Anxiety with depression
+E2004 | Chronic anxiety
+E2005 | Recurrent anxiety
+E200z | Anxiety state NOS
+Eu41. | [X]Other anxiety disorders
+Eu410 | [X]Panic disorder [episodic paroxysmal anxiety]
+Eu411 | [X]Generalized anxiety disorder
+Eu412 | [X]Mixed anxiety and depressive disorder
+Eu413 | [X]Other mixed anxiety disorders
+Eu41y | [X]Other specified anxiety disorders
+Eu41z | [X]Anxiety disorder, unspecified
+
+Read CTV3 Code | Description
+E200. | Anxiety disorder
+XE1Y7 | Panic disorder
+Eu410 | [X]Panic disorder [episodic paroxysmal anxiety]
+E2002 | Generalised anxiety disorder
+X00Sb | Mixed anxiety and depressive disorder
+X00RP | Organic anxiety disorder
+E2004 | Chronic anxiety
+E2005 | Recurrent anxiety
+E200z | Anxiety state NOS
+X00Sc | Anxiety hysteria
+Eu41. | [X]Other anxiety disorders
+Eu413 | [X]Other mixed anxiety disorders
+Eu41z | [X]Anxiety disorder, unspecified
+XE1Zj | [X]Other specified anxiety disorders
+
+SNOMED Code | Description
+1037451000000100 | Referral for psychological management of anxiety (procedure)
+1053831000000100 | Signposting to Anxiety UK (procedure)
+10586006 | Occupation-related stress disorder (disorder)
+10743001000119100 | Anxiety disorder in mother complicating childbirth (disorder)
+109006 | Anxiety disorder of childhood OR adolescence (disorder)
+111487009 | Dream anxiety disorder (disorder)
+11458009 | Anticipatory anxiety, mild (finding)
+11806006 | Separation anxiety disorder of childhood (disorder)
+12398201000119100 | Anxiety disorder caused by methamphetamine (disorder)
+126943008 | Separation anxiety (disorder)
+13438001 | Overanxious disorder of childhood (disorder)
+15277004 | Hallucinogen-induced anxiety disorder (disorder)
+161470009 | History of anxiety state (situation)
+16264621000119100 | Recurrent mild major depressive disorder co-occurrent with anxiety (disorder)
+16264821000119100 | Recurrent severe major depressive disorder co-occurrent with anxiety (disorder)
+16264901000119100 | Recurrent moderate major depressive disorder co-occurrent with anxiety (disorder)
+16265301000119100 | Recurrent major depressive disorder in partial remission co-occurrent with anxiety (disorder)
+16265701000119100 |  Illness anxiety disorder (disorder)
+16265951000119100 | Mild major depressive disorder co-occurrent with anxiety single episode (disorder)
+16266831000119100 | Moderate major depressive disorder co-occurrent with anxiety single episode (disorder)
+16266991000119100 | Severe major depressive disorder co-occurrent with anxiety single episode (disorder)
+162723006 | On examination - anxious (finding)
+1686006 | Sedative, hypnotic AND/OR anxiolytic-induced anxiety disorder (disorder)
+17496003 | Organic anxiety disorder (disorder)
+191708009 | Chronic anxiety (finding)
+191709001 | Recurrent anxiety (finding)
+192108001 | Disturbance of anxiety and fearfulness in childhood and adolescence (disorder)
+192611004 | Childhood phobic anxiety disorder (disorder)
+197480006 | Anxiety disorder (disorder)
+198288003 | Anxiety state (finding)
+207363009 | Anxiety neurosis (finding)
+21897009 | Generalized anxiety disorder (disorder)
+225216003 | Acknowledging anxiety (procedure)
+225624000 | Panic attack (finding)
+22621000119103 | Anxiety disorder caused by drug (disorder)
+228560001 | Anxiety management training (procedure)
+231502005 |  Situational panic attack (finding)
+231503000 | Non-situational panic attack (finding)
+231504006 | Mixed anxiety and depressive disorder (disorder)
+231506008 | Anxiety hysteria (finding)
+231528008 | Anxious personality disorder (disorder)
+247805009 | Anxiety and fear (finding)
+286644009 | Level of anxiety (finding)
+286710008 | Anxious character (finding)
+286711007 | Over-anxious character (finding)
+286712000 | Fearful character (finding)
+300895004 | Anxiety attack (finding)
+313087008 | Counseling for anxiety (procedure)
+34938008 | Alcohol-induced anxiety disorder (disorder)
+351861000000106 | Stranger anxiety (disorder)
+35429005 | Anticipatory anxiety (finding)
+35607004 | Panic disorder with agoraphobia (disorder)
+36646009 | Anticipatory anxiety, moderate (finding)
+371631005 | Panic disorder (disorder)
+37868008 | Anxiety disorder of adolescence (disorder)
+37872007 | Avoidant disorder of childhood OR adolescence (disorder)
+386808001 | Phobia (finding)
+386810004 | Phobic anxiety disorder (disorder)
+395017009 | Complaining of panic attack (finding)
+405051006 | Level of anxiety (observable entity)
+417676004 |  On examination - panic attack (finding)
+43150009 | Panic disorder without agoraphobia with severe panic attacks (disorder)
+47372000 | Adjustment disorder with anxious mood (disorder)
+48694002 | Anxiety (finding)
+50026000 | Psychoactive substance-induced organic anxiety disorder (disorder)
+51493001 | Cocaine-induced anxiety disorder (disorder)
+51916003 | Biofeedback training by electroencephalogram application in anxiety (regime/therapy)
+52910006 | Anxiety disorder due to a general medical condition (disorder)
+53467004 | Anxiety disorder of childhood (disorder)
+53956006 | Panic disorder without agoraphobia with panic attacks in partial remission (disorder)
+5509004 | Panic disorder with agoraphobia AND severe panic attacks (disorder)
+55967005 | Phencyclidine-induced anxiety disorder (disorder)
+56576003 | Panic disorder without agoraphobia (disorder)
+5874002 | Anticipatory anxiety, severe (finding)
+61387006 | Moderate anxiety (finding)
+63909006 | Panic disorder with agoraphobia AND panic attacks in partial remission (disorder)
+64165008 | Avoidant disorder of childhood (disorder)
+65064003 | Panic disorder without agoraphobia with moderate panic attacks (disorder)
+69479009 | Anxiety hyperventilation (disorder)
+70997004 | Mild anxiety (finding)
+710060004 | Management of anxiety (procedure)
+710841007 | Assessment of anxiety (procedure)
+724708007 | Anxiety disorder caused by methylenedioxymethamphetamine (disorder)
+724722007 | Anxiety disorder caused by dissociative drug (disorder)
+724723002 | Anxiety disorder caused by ketamine (disorder)
+72861004 | Panic disorder without agoraphobia with mild panic attacks (disorder)
+737341006 | Anxiety disorder caused by synthetic cannabinoid (disorder)
+762331007 | Anxiety disorder caused by stimulant (disorder)
+788866004 |  Anxiety due to dementia (finding)
+80583007 | Severe anxiety (panic) (finding)
+81350009 | Free-floating anxiety (finding)
+8185002 | Panic disorder with agoraphobia AND moderate panic attacks (disorder)
+82339009 |  Amphetamine-induced anxiety disorder (disorder)
+85061001 | Separation anxiety disorder of childhood, early onset (disorder)
+858991000000101 | Provision of written information about generalised anxiety disorder (procedure)
+859891000000103 |  Able to manage anxiety (finding)
+861611000000100 | Education about anxiety (procedure)
+89948007 | Panic disorder with agoraphobia AND mild panic attacks (disorder)
+90790003 | Avoidant disorder of adolescence (disorder)
+94641000119109 |  Anxiety in pregnancy (disorder)
