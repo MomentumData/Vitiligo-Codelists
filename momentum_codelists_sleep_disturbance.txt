@@ -1,0 +1,425 @@
+V2Codes | Description
+R005. | [D]Sleep disturbances
+R0050 | [D]Sleep disturbance, unspecified
+R0051 | [D]Insomnia with sleep apnoea
+R0052 | [D]Insomnia NOS
+R0053 | [D]Hypersomnia with sleep apnoea
+R0054 | [D]Hypersomnia NOS
+R0055 | [D]Sleep rhythm inversion
+R0056 | [D]Sleep rhythm irregular
+R0057 | [D]Sleep-wake rhythm non-24-hour cycle
+R0058 | [D]Sleep dysfunction with sleep stage disturbance
+R0059 | [D]Sleep dysfunction with arousal disturbance
+R005z | [D]Sleep dysfunction NOS
+Fy0.. | Sleep disorders
+Fy00. | Disorders of initiating and maintaining sleep
+Fy01. | Disorders of excessive somnolence
+Fy02. | Disorders of the sleep-wake schedule
+Fy03. | Sleep apnoea
+Fy04. | Sleep-related respiratory failure
+Fy05. | Nocturnal sleep-related eating disorder
+Fy06. | Kleine-Levin syndrome
+E274. | Non-organic sleep disorders
+E2740 | Unspecified non-organic sleep disorder
+E2741 | Transient insomnia
+E2742 | Persistent insomnia
+E2743 | Transient hypersomnia
+E2744 | Persistent hypersomnia
+E2745 | Jet lag syndrome
+E2746 | Shifting sleep-work schedule
+E2747 | Somnambulism - sleep walking
+E2748 | Night terrors
+E2749 | Nightmares
+E274A | Sleep drunkenness
+E274B | Repeated rapid eye movement sleep interruptions
+E274C | Other sleep stage or arousal dysfunction
+E274D | Repetitive intrusions of sleep
+E274E | Short-sleeper
+E274F | Inversion of sleep rhythm
+E274y | Other non-organic sleep disorder
+E274z | Non-organic sleep disorder NOS
+Eu51. | [X]Nonorganic sleep disorders
+Eu510 | [X]Nonorganic insomnia
+Eu511 | [X]Nonorganic hypersomnia
+Eu512 | [X]Nonorganic disorder of the sleep-wake schedule
+Eu513 | [X]Sleepwalking
+Eu514 | [X]Sleep terrors
+Eu515 | [X]Nightmares
+Eu51y | [X]Other nonorganic sleep disorders
+Eu51z | [X]Nonorganic sleep disorder, unspecified
+9Ngt. | On melatonin for sleep disorder
+663N. | Asthma disturbing sleep
+663N0 | Asthma causing night waking
+663N1 | Asthma disturbs sleep weekly
+663N2 | Asthma disturbs sleep frequently
+66Yg. | Chronic obstructive pulmonary disease disturbs sleep
+1B1Q. | Poor sleep pattern
+1BX0. | Delayed onset of sleep
+1B1X. | Excessive sleep
+1BX3. | Early morning waking
+1BX9. | Light sleep
+9Nk0. | Seen in sleep clinic
+8HTn. | Referral to sleep clinic
+K5A21 | Menopausal sleeplessness
+Q318. | Primary sleep apnoea of newborn
+8G9B. | Sleep hygeine behaviour education
+1B1B. | C/O - insomnia
+38D1. | Insomnia severity index
+CTV3Codes | Description
+XM06i | Sleep disturbance
+XaZKa | Excessive somnolence
+X76AE | Sleep rhythm problem
+XE2Pv | Insomnia
+X76AG | Not getting enough sleep
+X007u | Difficulty getting to sleep
+X007v | Keeps waking up
+X76AJ | Wakes and cannot sleep again
+X76AK | Early waking
+XaIv5 | Early morning waking
+X76AL | Circumstances interfere with sleep
+1B1B0 | Initial insomnia
+1B1B1 | Middle insomnia
+1B1B2 | Late insomnia
+E2742 | Persistent insomnia
+X007s | Insomnia NOS
+X76AM | Symptoms interfere with sleep
+XE1Yg | Transient insomnia
+X76AN | Restless sleep
+X007w | Excessive sleep
+X007z | Excessive daytime sleepiness - normal night sleep
+X0080 | Excessive day and night-time sleepiness
+X0081 | Postviral excessive daytime sleepiness
+F271. | Narcoleptic syndrome
+Xa0Kk | Sleep paralysis
+F270. | Cataplexy
+F27z. | Cataplexy or narcolepsy NOS
+X0082 | Excess daytime sleepiness with sleep paralysis
+X76AQ | Oversleeps
+X007y | Hypersomnia of non-organic origin
+E2744 | Persistent hypersomnia
+F27.. | Cataplexy and narcolepsy
+X007x | Hypersomnia NOS
+XE1Yh | Transient hypersomnia
+X76AR | Always sleepy
+XSGLz | Light sleep
+XM06k | Disorder of sleep-wake cycle
+X0088 | Transient sleep-wake rhythm disorder
+X0089 | Delayed sleep phase syndrome
+XM06j | Irregular sleep-wake pattern
+X008A | Non-24 hour sleep-wake cycle
+E274F | Reversed sleep-wake cycle
+E2745 | Jet lag - disorder
+E2746 | Work shift change
+E274B | Repeated rapid eye movement sleep interruptions
+Fy01. | Disorders of excessive somnolence
+R005. | [D]Sleep disturbances
+R0050 | [D]Sleep disturbance, unspecified
+R0051 | [D]Insomnia with sleep apnoea
+R0052 | [D]Insomnia NOS
+R0054 | [D]Hypersomnia NOS
+R0055 | [D]Sleep rhythm inversion
+R0056 | [D]Sleep rhythm irregular
+R0057 | [D]Sleep-wake rhythm non-24-hour cycle
+R0058 | [D]Sleep dysfunction with sleep stage disturbance
+R0059 | [D]Sleep dysfunction with arousal disturbance
+R005z | [D]Sleep dysfunction NOS
+XE1gP | [D]Sleep dysfunction NEC
+XE2nU | [D]Hypersomnia with sleep apnoea
+XM0yu | [D]Insomnia
+XaC0p | [D]Hypersomnia
+XaEGP | [D]Sleep apnoea syndrome
+X007q | Sleep disorders
+X0083 | Sleep apnoea
+X0084 | Obstructive sleep apnoea
+X0085 | Central sleep apnoea
+X0086 | Mixed sleep apnoea
+X0087 | Alveolar sleep apnoea
+X008E | Kleine-Levin syndrome
+663N. | Asthma disturbing sleep
+663N0 | Asthma causing night waking
+663N1 | Asthma disturbs sleep weekly
+663N2 | Asthma disturbs sleep frequently
+663O0 | Asthma never disturbs sleep
+XaKv8 | Chronic obstructive pulmonary disease disturbs sleep
+X008C | Sleep-related head banging
+X008D | Sleep-related painful erections
+X008F | Sleep-related respiratory failure
+X008G | Sleep-related dystonia
+X008H | Parasomnia
+E2748 | Night terrors
+X7649 | Reaction to sudden wakening
+E2749 | Nightmares
+X764K | Sleep automatism
+XaJEd | Nocturnal sleep-related eating disorder
+XM1GE | Sleep-related bruxism
+Ua1ZQ | Sleep talking
+E274A | Sleep drunkenness
+XE2Q5 | Non-organic sleep disorder
+Eu510 | Nonorganic insomnia
+XE1Zr | Non-organic disorder of the sleep-wake schedule
+E2747 | Sleepwalking
+E2740 | Unspecified non-organic sleep disorder
+E274z | Non-organic sleep disorder NOS
+Eu51y | [X]Other nonorganic sleep disorders
+Eu51z | [X]Nonorganic sleep disorder, unspecified
+XE1Yj | Other non-organic sleep disorder
+E274C | Other sleep stage or arousal dysfunction
+E274E | Short-sleeper
+Fy00. | Disorders of initiating and maintaining sleep
+Fyu58 | [X]Other sleep disorders
+XE1Yi | Repetitive intrusions of sleep
+Xa7wV | Poor sleep
+X76A0 | Unrefreshed by sleep
+X7647 | Sleep behaviour
+X764J | No recollection of sleep walk
+X764H | Unresponsive to communication whilst sleep walking
+X764I | Not easily wakened from sleep walking
+X764G | Blank staring face whilst sleep walking 
+X764D | Low level awareness whilst sleep walking 
+X764E | Low level reactivity whilst sleep walking
+X764F | Low level of motor skill whilst sleep walking 
+X76AF | Unable to sleep
+XaN5q | Seen in sleep clinic
+XaOb7 | Referral to sleep clinic
+X006x | Sleep-related epilepsy
+K5A21 | Menopausal sleeplessness
+XaP4v | Sleep hygeine behaviour education
+X008F | Sleep related respiratory failure
+X20M9 | Insertion of device for sleep apnoea
+ZV1B1 | [V]Personal history of unhealthy sleep-wake cycle
+SNOMEDCTCodes | Description 
+39898005 | Sleep disorder (disorder) 
+230494007 | Alveolar sleep apnea (disorder) 
+111489007 | Breathing-related sleep disorder (disorder)
+24825006 | Central alveolar hypoventilation syndrome (disorder) 
+105191000119100 | Acquired central alveolar hypoventilation (disorder) 
+399040002 | Congenital central hypoventilation (disorder)
+719972004 | Haddad syndrome (disorder) 
+441910000 | Idiopathic sleep related non-obstructive alveolar hypoventilation (disorder) 
+724508005 | Late-onset central hypoventilation co-occurrent and due to hypothalamic dysfunction (disorder) 
+27405005 | Central sleep apnea syndrome (disorder) 
+91441000119109 | Central sleep apnea caused by high altitude (disorder) 
+724504007 | Central sleep apnea caused by substance (disorder)
+104831000119109 | Drug induced central sleep apnea (disorder)
+724506009 | Central sleep apnea co-occurrent with Cheyne Stokes respiration (disorder) 
+85721000119105 | Central sleep apnea due to periodic breathing (disorder) 
+724507000 | Central sleep apnea without Cheyne-Stokes respiration (disorder) 
+9741000119101 | Primary central sleep apnea (disorder) 
+789055001 | Treatment-emergent central sleep apnea (disorder) 
+78275009 | Obstructive sleep apnea syndrome (disorder) 
+774068004 | AT-hook DNA binding motif containing 1-related intellectual disability, obstructive sleep apnea, mild dysmorphism syndrome (disorder) 
+765751002 | Autoimmune encephalopathy with parasomnia and obstructive sleep apnea (disorder) 
+230493001 | Mixed sleep apnea (disorder)
+1101000119103 | Obstructive sleep apnea of adult (disorder) 
+1091000119108 | Obstructive sleep apnea of child (disorder) 
+16275741000119100 | Severe pediatric obstructive sleep apnea (disorder)
+89911000119102 | Sleep related hypoventilation or hypoxemia (disorder) 
+443760008 | Sleep hypoventilation (disorder) 
+429456008 | Hypoventilation during sleep due to neuromuscular disorder (disorder) 
+426542005 | Sleep hypoventilation due to lower airway obstruction (disorder) 
+724509002 | Sleep-related hypoventilation caused by substance (disorder) 
+430390000 | Sleep-related neurogenic tachypnea (disorder) 
+194437008 | Disorders of initiating and maintaining sleep (disorder) 
+193462001 | Insomnia (disorder)
+762348004 | Acute insomnia (disorder) 
+472819006 | Adjustment insomnia (disorder) 
+90361000119105 | Behavioral insomnia of childhood (disorder)
+288081000119106 | Behavioral insomnia of childhood, combined type (disorder) 
+288091000119109 | Behavioral insomnia of childhood, limit setting type (disorder) 
+288101000119104 | Behavioral insomnia of childhood, sleep onset association type (disorder) 
+724748004 | Chronic insomnia (disorder) 
+248258007 | Circumstances interfere with sleep (disorder)
+91411000119105 | Drug-induced insomnia (disorder)
+135311000119100 | Insomnia caused by alcohol (disorder)
+83157008 | Fatal familial insomnia (disorder) 
+59050008 | Initial insomnia (disorder) 
+27971000119105 | Insomnia co-occurrent and due to medical condition (disorder) 
+24121004 | Insomnia disorder related to another mental disorder (disorder) 
+81608000 | Insomnia disorder related to known organic factor (disorder) 
+41975002 | Insomnia with sleep apnea (disorder)
+162204000 | Late insomnia (disorder) 
+198437004 | Menopausal sleeplessness (disorder) 
+67233009 | Middle insomnia (disorder) 
+54230003 | Mixed insomnia (disorder) 
+192454004 | Nonorganic insomnia (disorder) 
+248256006 | Not getting enough sleep (disorder) 
+288421000119100 | Hyposomnia co-occurrent and due to psychological disorder (disorder) 
+105491000119107 | Primary hyposomnia (disorder) 
+191997003 | Persistent insomnia (disorder) 
+3972004 | Primary insomnia (disorder) 
+425832009 | Psychophysiologic insomnia (disorder) 
+88982005 | Rebound insomnia (disorder) 
+248259004 | Symptoms interfere with sleep (disorder) 
+67062000 | Terminal insomnia (disorder) 
+401236004 | Early morning waking (disorder) 
+268652009 | Transient insomnia (disorder) 
+711565008 | Dream enactment behavior (disorder) 
+44186003 | Dyssomnia (disorder) 
+787175002 | Ankyrin 3 related intellectual disability, sleep disturbance syndrome (disorder) 
+271794005 | Disorder of sleep-wake cycle (disorder) 
+91461000119108 | Circadian rhythm disorder caused by drug (disorder) 
+135331000119105 | Circadian rhythm sleep disorder caused by alcohol (disorder) 
+713498009 | Circadian rhythm sleep disorder of shift work type (disorder) 
+31491000119109 | Disruptions of 24 hour sleep-wake cycle (disorder)
+715829003 | Familial advanced sleep phase syndrome (disorder)
+271793004 | Irregular sleep-wake pattern (disorder)
+230496009 | Non-24 hour sleep-wake cycle (disorder)
+268722008 | Non-organic disorder of the sleep-wake schedule (disorder) 
+99711000119104 | Organic sleep-wake cycle disorder (disorder)
+192004002 | Repeated rapid eye movement sleep interruptions (disorder) 
+192008004 | Reversed sleep-wake cycle (disorder) 
+724751006 | Sleep-wake schedule disorder due to jet lag (disorder) 
+31537005 | Sleep-wake schedule disorder, advanced phase type (disorder) 
+80623000 | Sleep-wake schedule disorder, delayed phase type (disorder) 
+54532007 | Sleep-wake schedule disorder, frequently changing type (disorder) 
+230495008 | Transient sleep-wake rhythm disorder (disorder) 
+194439006 | Disorders of excessive somnolence (disorder)
+370971007 | Somnolence syndrome (disorder) 
+418424006 | Post-radiotherapy somnolence syndrome (disorder) 
+77692006 | Hypersomnia (disorder) 
+724749007 | Behaviorally induced hypersomnia (disorder) 
+193042000 | Cataplexy and narcolepsy (disorder) 
+31771000119102 | Daytime hypersomnia (disorder) 
+230490003 | Excessive day and night-time sleepiness (disorder)
+230489007 | Excessive daytime sleepiness - normal night sleep (disorder) 
+44455001 | Hypersomnia disorder related to a known organic factor (disorder) 
+426943005 | Hypersomnia disorder related to menstruation (disorder) 
+89415002 | Hypersomnia disorder related to another mental disorder (disorder) 
+230488004 | Hypersomnia of non-organic origin (disorder)
+79280005 | Hypersomnia with sleep apnea (disorder) 
+724750007 | Hypersomnolence caused by substance (disorder) 
+91471000119102 | Drug-induced hypersomnia (disorder) 
+135321000119107 | Hypersomnia caused by alcohol (disorder)
+248261008 | Oversleeps (disorder) 
+191999000 | Persistent hypersomnia (disorder) 
+230491004 | Postviral excessive daytime sleepiness (disorder) 
+36124002 | Primary hypersomnia (disorder) 
+3731000119107 | Idiopathic hypersomnia (disorder) 
+442416002 | Idiopathic hypersomnia associated with long sleep time (disorder) 
+442292004 | Idiopathic hypersomnia without long sleep time (disorder) 
+426451004 | Recurrent hypersomnia (disorder) 
+268653004 | Transient hypersomnia (disorder) 
+429276004 | Environmental sleep disorder (disorder)
+111488004 | Kleine-Levin syndrome (disorder) 
+425881006 | Limit-setting sleep disorder (disorder) 
+443664006 | Long sleeper syndrome (disorder) 
+270487001 | Non-organic sleep disorder (disorder) 
+418955009 | Organic sleep disorder (disorder) 
+105521000119109 | Organic mixed sleep disorder (disorder) 
+90011000119105 | Organic sleep related movement disorder (disorder)
+789047008 | Sleep-related movement disorder caused by substance (disorder) 
+789046004 | Sleep-related movement disorder caused by drug (disorder) 
+58690002 | Parasomnia (disorder) 
+441830002 | Confusional arousal disorder (disorder)
+449160007 | Exploding head syndrome (disorder) 
+724752004 | Hypnogogic exploding head syndrome (disorder) 
+60380001 | Narcolepsy (disorder) 
+722293005 | Autosomal dominant cerebellar ataxia, deafness and narcolepsy syndrome (disorder) 
+735676003 | Narcolepsy type 1 (disorder) 
+91521000119104 | Narcolepsy without cataplexy (disorder) 
+34101000119105 | Nocturnal myoclonus (disorder) 
+93681000119102 | Insomnia co-occurrent and due to nocturnal myoclonus (disorder) 
+425476007 | Non-organic parasomnia (disorder) 
+441976002 | Organic parasomnia (disorder) 
+724754003 | Parasomnia disorder caused by substance (disorder) 
+135301000119103 | Parasomnia caused by alcohol (disorder) 
+415238003 | Rapid eye movement sleep behavior disorder (disorder) 
+247951006 | Reaction to sudden wakening (disorder) 
+724753009 | Recurrent isolated sleep-related hallucinations (disorder) 
+428708005 | Secondary parasomnia (disorder) 
+247962006 | Sleep automatism (disorder) 
+274950005 | Sleep related bruxism (disorder) 
+80495009 | Sleep walking disorder (disorder) 
+192003008 | Sleep drunkenness (disorder) 
+277180005 | Sleep paralysis (disorder) 
+230492006 | Excessive daytime sleepiness with sleep paralysis (disorder) 
+442120007 | Recurrent isolated sleep paralysis (disorder)
+84991000119105 | Sleep related movement disorder (disorder)
+413638006 | Benign neonatal sleep myoclonus (disorder)
+418763003 | Periodic limb movement disorder (disorder)
+32914008 | Restless legs (disorder) 
+1052284009 | Restless leg syndrome in pregnancy (disorder) 
+722963007 | Secondary restless legs syndrome (disorder)
+1052283003 | Restless leg syndrome due to iron deficiency anemia (disorder) 
+1052282008 | Restless leg syndrome due to uremia (disorder) 
+430893009 | Sleep related rhythmic movement disorder (disorder)
+ 277181009 | Sleep starts (disorder) 
+89675003 | Sleep terror disorder (disorder) 
+17402007 | Pavor diurnus (disorder) 
+23871000119106 | Somnambulism co-occurrent with sleep terror disorder (disorder) 
+429571005 | Sleep-related dissociative disorder (disorder)
+230500006 | Sleep-related dystonia (disorder) 
+429266002 | Sleep-related groaning (disorder) 
+230497000 | Sleep-related head banging (disorder) 
+789009003 | Primary central sleep apnea of prematurity (disorder)
+268654005 | Repetitive intrusions of sleep (disorder) 
+73430006 | Sleep apnea (disorder) 
+719976001 | Glaucoma and sleep apnea syndrome (disorder) 
+442164004 | Organic sleep apnea (disorder) 
+361208003 | Primary sleep apnea of newborn (disorder)
+427426006 | Sleep attack (disorder) 
+4681000119100 | Sleep disturbance in infancy (disorder) 
+442176004 | Sleep dysfunction with arousal disturbance (disorder) 
+441877007 | Sleep dysfunction with sleep stage disturbance (disorder) 
+426824009 | Sleep-onset association disorder (disorder) 
+230498005 | Sleep-related painful erections (disorder) 
+230499002 | Sleep-related respiratory failure (disorder) 
+363314000 | Substance-induced sleep disorder (disorder)
+170631002 | Asthma disturbing sleep (finding) 
+170632009 | Asthma causing night waking (finding) 
+170634005 | Asthma disturbs sleep frequently (finding)
+170633004 | Asthma disturbs sleep weekly (finding) 
+198401000000104 | Chronic obstructive pulmonary disease disturbs sleep (finding) 
+88926005 | Opioid-induced sleep disorder (disorder)
+41083005 | Alcohol-induced sleep disorder (disorder)
+724732000 | Sleep disorder caused by psychoactive substance (disorder)
+56194001 | Caffeine-induced sleep disorder (disorder)
+135331000119105 | Circadian rhythm sleep disorder caused by alcohol (disorder)
+22574000 | Cocaine-induced sleep disorder (disorder)
+135321000119107 | Hypersomnia caused by alcohol (disorder)
+135311000119100 | Insomnia caused by alcohol (disorder)
+135301000119103 | Parasomnia caused by alcohol (disorder)
+57588009 | Sedative, hypnotic AND/OR anxiolytic-induced sleep disorder (disorder)
+723937009 | Sleep disorder caused by cannabis (disorder)
+724699001 | Sleep disorder caused by nicotine (disorder)
+737342004 | Sleep disorder caused by synthetic cannabinoid (disorder)
+762334004 | Sleep disorder caused by stimulant (disorder
+25753007 | Amphetamine-induced sleep disorder (disorder)
+887881000000101 | On melatonin for sleep disorder (situation)
+31491000119109 | Disruptions of 24 hour sleep-wake cycle (disorder)
+713524002 | Sleep disorder caused by reverse transcriptase inhibitor (disorder)
+789046004 | Sleep-related movement disorder caused by drug (disorder)
+80623000 | Sleep-wake schedule disorder, delayed phase type (disorder)
+697914005 | Pulmonary hypertension due to sleep-disordered breathing (disorder)
+787175002 | Ankyrin 3 related intellectual disability, sleep disturbance syndrome (disorder)
+248262001 | Always sleepy 
+248261008 | Oversleeps (disorder)
+326781000000101 | Insomnia severity index (assessment scale)
+53758003 | Mood insomnia (finding)
+38376001 | Initial mood insomnia (finding)
+45291004 | Middle mood insomnia (finding)
+3277001 | Terminal mood insomnia (finding)
+272025006 | Complaining of insomnia (finding)
+1109721000000108 | Digital cognitive behavioural therapy for insomnia (regime/therapy)
+868185009 | Cognitive behavioral therapy for insomnia (regime/therapy)
+440313002 | Education about stimulus control behavior in insomnia (procedure)
+1107181000000104 | Signposting for digital cognitive behavioural therapy for insomnia (procedure)
+1107201000000100 | Self referral for digital cognitive behavioural therapy for insomnia (procedure
+1107191000000102 | Referral for digital cognitive behavioural therapy for insomnia (procedure
+1072611000000100 | Does not sleep (finding)
+1072621000000106 | Does not sleep with sedation (finding)
+1069241000000104 | Does not sleep without sedation (finding)
+248255005 | Cannot sleep at all (finding)
+248260009 | Unrefreshed by sleep (disorder)
+272265001 | Appliance for sleep apnea (physical object)
+438517001 | Referral to sleep clinic (procedure)
+247958000 | Blank, staring face while sleep walking (finding)
+419057008 | Finding related to sleep walking (finding)
+247955002 | Low level of awareness while sleep walking (finding)
+247957005 | Low level of motor skill while sleep walking (finding)
+247956001 | Low level of reactivity while sleep walking (finding)
+247961004 | No recollection of sleep walk (finding)
+247959008 | Unresponsive to communication while sleep walking (finding)
+1057371000000102 | Signposting to the Sleep Council (procedure)
+1363171000000104 | Registration for access to online sleep management self-management application (procedure)
+985541000000106 | Health of the Nation Outcome Scales for People with Learning Disabilities rating scale 10 - problems with sleeping (assessment scale)
