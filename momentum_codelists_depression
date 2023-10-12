@@ -1,0 +1,340 @@
+Depressive episodes
+Read V2 Code | Description
+E0013 | Presenile dementia with depression
+E0021 | Senile dementia with depression
+E112. | Single major depressive episode
+E1120 | Single major depressive episode, unspecified
+E1121 | Single major depressive episode, mild
+E1122 | Single major depressive episode, moderate
+E1123 | Single major depressive episode, severe, without mention of psychosis
+E1124 | Single major depressive episode, severe, with psychosis
+E1125 | Single major depressive episode, in partial or unspecified remission
+E1126 | Single major depressive episode, in full remission
+E112z | Single major depressive episode NOS
+E113. | Recurrent major depressive episode
+E1130 | Recurrent major depressive episodes, unspecified
+E1131 | Recurrent major depressive episodes, mild
+E1132 | Recurrent major depressive episodes, moderate
+E1133 | Recurrent major depressive episodes, severe, without mention of psychosis
+E1134 | Recurrent major depressive episodes, severe, with psychosis
+E1137 | Recurrent depression
+E113z | Recurrent major depressive episode NOS
+E118. | Seasonal affective disorder
+E11y2 | Atypical depressive disorder
+E11z2 | Masked depression
+E130. | Reactive depressive psychosis
+E135. | Agitated depression
+E2003 | Anxiety with depression
+E291. | Prolonged depressive reaction
+E2B.. | Depressive disorder NEC
+E2B1. | Chronic depression
+E2B0. | Postviral depression
+Eu204 | [X]Post-schizophrenic depression
+Eu251 | [X]Schizoaffective disorder, depressive type
+Eu32. | [X]Depressive episode
+Eu320 | [X]Mild depressive episode
+Eu321 | [X]Moderate depressive episode
+Eu322 | [X]Severe depressive episode without psychotic symptoms
+Eu323 | [X]Severe depressive episode with psychotic symptoms
+Eu324 | [X]Mild depression
+Eu325 | [X]Major depression, mild
+Eu326 | [X]Major depression, moderately severe
+Eu327 | [X]Major depression, severe without psychotic symptoms
+Eu328 | [X]Major depression, severe with psychotic symptoms
+Eu32y |  [X]Other depressive episodes
+Eu32z | [X]Depressive episode, unspecified
+Eu33. | [X]Recurrent depressive disorder
+Eu330 | [X]Recurrent depressive disorder, current episode mild
+Eu331 | [X]Recurrent depressive disorder, current episode moderate
+Eu332 | [X]Recurrent depressive disorder, current episode severe without psychotic symptoms
+Eu333 | [X]Recurrent depressive disorder, current episode severe with psychotic symptoms
+Eu334 | [X]Recurrent depressive disorder, currently in remission
+Eu33y |  [X]Other recurrent depressive disorders
+Eu33z | [X]Recurrent depressive disorder, unspecified
+Eu412 | [X]Mixed anxiety and depressive disorder
+
+Read CTV3 Code | Description
+X00Sb | Mixed anxiety and depressive disorder
+X00SO | Depressive disorder
+X761L | Seasonal affective disorder
+Xa0wV | Recurrent brief depressive disorder
+X00SQ | Agitated depression
+XE1YC | Reactive depression
+X00SR | Endogenous depression
+X00SS | Endogenous depression first episode
+XE1Y0 | Single major depressive episode
+E1120 | Single major depressive episode, unspecified
+E1121 | Single major depressive episode, mild
+E1122 | Single major depressive episode, moderate
+E1123 | Single major depressive episode, severe, without mention of psychosis
+E1124 | Single major depressive episode, severe, with psychosis
+XaX53 | Single major depressive episode, severe, with psychosis, psychosis in remission
+E1125 | Single major depressive episode, in partial or unspecified remission
+E1126 | Single major depressive episode, in full remission
+E112z | Single major depressive episode NOS
+XM1GC | Endogenous depression - recurrent
+E1130 | Recurrent major depressive episodes, unspecified
+E1131 | Recurrent major depressive episodes, mild
+E1132 | Recurrent major depressive episodes, moderate
+E1133 | Recurrent major depressive episodes, severe, without mention of psychosis
+E1134 | Recurrent major depressive episodes, severe, with psychosis
+E1135 | Recurrent major depressive episodes, in partial or unspecified remission
+E1136 | Recurrent major depressive episodes, in full remission
+E113z | Recurrent major depressive episode NOS
+X00SU | Masked depression
+E11y2 | Atypical depressive disorder
+X00S8 | Post-schizophrenic depression
+XSEGJ | Major depressive disorder
+XSKr7 | Cotard syndrome
+XSGol | Moderate major depression
+XSGok | Mild major depression
+XSGom | Severe major depression without psychotic features
+XSGon | Severe major depression with psychotic features
+E1137 | Recurrent depression
+E130. | Reactive depressive psychosis
+E2B.. | Depressive disorder NEC
+E2B0. | Postviral depression
+E2B1. | Chronic depression
+Eu320 | [X]Mild depressive episode
+Eu321 | [X]Moderate depressive episode
+Eu331 | [X]Recurrent depressive disorder, current episode moderate
+XE1Y1 | Recurrent major depressive episodes
+XE1ZY | [X]Severe depressive episode without psychotic symptoms
+XE1ZZ | [X]Severe depressive episode with psychotic symptoms
+XE1Za | [X]Other depressive episodes
+XE1Zb | [X]Depressive episode, unspecified
+XE1Zd | [X]Recurrent depressive disorder, current episode severe without psychotic symptoms
+XE1Ze | [X]Recurrent depressive disorder, current episode severe with psychotic symptoms
+XE1Zf | [X]Recurrent depressive disorder, unspecified
+XaB9J | Depression NOS
+XaCHr | [X] Single episode agitated depression without psychotic symptoms
+XaCHs | [X] Single episode major depression without psychotic symptoms
+XaCIs | Mild depression
+XaCIt | Moderate depression
+XaCIu | Severe depression
+E0013 | Presenile dementia with depression
+E0021 | Senile dementia with depression
+
+SNOMED Code,Description
+832007 | Moderate major depression (disorder)
+2618002 | Chronic recurrent major depressive disorder (disorder)
+14070001 | Multi-infarct dementia with depression (disorder)
+14183003 | Chronic major depressive disorder, single episode (disorder)
+15193003 | Severe recurrent major depression with psychotic features, mood-incongruent (disorder)
+15639000 | Moderate major depression, single episode (disorder)
+18818009 | Moderate recurrent major depression (disorder)
+19527009 | Single episode of major depression in full remission (disorder)
+20250007 | Severe major depression, single episode, with psychotic features, mood-incongruent (disorder)
+25922000 | Major depressive disorder, single episode with postpartum onset (disorder)
+26852004 | Primary degenerative dementia of the Alzheimer type, senile onset, with depression (disorder)
+28475009 | Severe recurrent major depression with psychotic features (disorder)
+30605009 | Major depression in partial remission (disorder)
+33078009 | Severe recurrent major depression with psychotic features, mood-congruent (disorder)
+33135002 | Recurrent major depression in partial remission (disorder)
+33736005 | Severe major depression with psychotic features, mood-congruent (disorder)
+35489007 | Depressive disorder (disorder)
+36474008 | Severe recurrent major depression without psychotic features (disorder)
+36923009 | Major depression, single episode (disorder)
+38694004 | Recurrent major depressive disorder with atypical features (disorder)
+39809009 | Recurrent major depressive disorder with catatonic features (disorder)
+40379007 | Mild recurrent major depression (disorder)
+40568001 | Recurrent brief depressive disorder (disorder)
+42925002 | Major depressive disorder, single episode with atypical features (disorder)
+48589009 | Minor depressive disorder (disorder)
+58703003 | Postpartum depression (disorder)
+60099002 | Severe major depression with psychotic features, mood-incongruent (disorder)
+66344007 | Recurrent major depression (disorder)
+69392006 | Major depressive disorder, single episode with catatonic features (disorder)
+70747007 | Major depression single episode, in partial remission (disorder)
+71336009 | Recurrent major depressive disorder with postpartum onset (disorder)
+73867007 | Severe major depression with psychotic features (disorder)
+75084000 | Severe major depression without psychotic features (disorder)
+76441001 | Severe major depression, single episode, without psychotic features (disorder)
+77911002 | Severe major depression, single episode, with psychotic features, mood-congruent (disorder)
+79298009 | Mild major depression, single episode (disorder)
+79842004 | Stuporous depression (disorder)
+82218004 | Postoperative depression (disorder)
+83458005 | Agitated depression (disorder)
+84788008 | Menopausal depression (disorder)
+87414006 | Reactive depression (situational) (disorder)
+87512008 | Mild major depression (disorder)
+161469008 | History of depression (situation)
+191457008 | Senile dementia with depressive or paranoid features (disorder)
+191459006 |  Senile dementia with depression (disorder)
+191466007 | Arteriosclerotic dementia with depression (disorder)
+191495003 | Drug-induced depressive state (disorder)
+191604000 | Single major depressive episode, severe, with psychosis (disorder)
+191610000 | Recurrent major depressive episodes, mild (disorder)
+191611001 | Recurrent major depressive episodes, moderate (disorder)
+191613003 | Recurrent major depressive episodes, severe, with psychosis (disorder)
+191616006 | Recurrent depression (disorder)
+191659001 | Atypical depressive disorder (disorder)
+191676002 | Reactive depressive psychosis (disorder)
+192046006 | Brief depressive adjustment reaction (disorder)
+192049004 | Prolonged depressive adjustment reaction (disorder)
+192079006 | Postviral depression (disorder)
+192080009 | Chronic depression (disorder)
+231485007 | Post-schizophrenic depression (disorder)
+231499006 | Endogenous depression first episode (disorder)
+231500002 | Masked depression (disorder)
+231504006 | Mixed anxiety and depressive disorder (disorder)
+237349002 | Mild postnatal depression (disorder)
+237350002 | Severe postnatal depression (disorder)
+237739002 | Pseudo-Cushing's syndrome of depression (disorder)
+247803002 | Seasonal affective disorder (disorder)
+268621008 | Recurrent major depressive episodes (disorder)
+272022009 | Complaining of feeling depressed (finding)
+274948002 | Endogenous depression - recurrent (disorder)
+300706003 | Endogenous depression (disorder)
+310495003 | Mild depression (disorder)
+310496002 | Moderate depression (disorder)
+310497006 | Severe depression (disorder)
+319768000 | Recurrent major depressive disorder with melancholic features (disorder)
+320751009 | Major depression, melancholic type (disorder)
+321717001 | Involutional depression (disorder)
+366979004 | Depressed mood (finding)
+370143000 | Major depressive disorder (disorder)
+394924000 | Symptoms of depression (finding)
+395072006 | Counseling for postnatal depression (procedure)
+430852001 | Severe major depression, single episode, with psychotic features (disorder)
+450714000 | Severe major depression (disorder)
+704678007 | Depressed mood with postpartum onset (finding)
+712823008 | Acute depression (disorder)
+718636001 | Minimal depression (disorder)
+719592004 | Moderately severe major depression (disorder)
+719593009 | Moderately severe depression (disorder)
+720451004 | Minimal recurrent major depression (disorder)
+720452006 | Moderately severe recurrent major depression (disorder)
+720453001 | Moderately severe major depression single episode (disorder)
+720454007 | Minimal major depression single episode (disorder)
+720455008 | Minimal major depression (disorder)
+723928009 | Mood disorder with depressive symptoms caused by alcohol (disorder)
+723930006 | Mood disorder with mixed manic and depressive symptoms caused by alcohol (disorder)
+724676000 | Mood disorder with depressive symptoms caused by sedative (disorder)
+724677009 | Mood disorder with depressive symptoms caused by hypnotic (disorder)
+724678004 | Mood disorder with depressive symptoms caused by anxiolytic (disorder)
+724690002 | Mood disorder with depressive symptoms caused by cocaine (disorder)
+724757005 | Depressive symptoms due to primary psychotic disorder (disorder)
+726772006 | Major depression with psychotic features (disorder)
+762321000 | Mood disorder with depressive symptoms caused by opioid (disorder)
+762329003 | Mood disorder with depressive symptoms caused by stimulant (disorder)
+762336002 | Mood disorder with depressive symptoms caused by hallucinogen (disorder)
+762339009 | Mood disorder with depressive symptoms caused by volatile inhalant (disorder)
+762512002 | Mood disorder with depressive symptoms caused by synthetic cathinone (disorder)
+768835002 | Depression care management (procedure)
+788120007 | Antenatal depression (disorder)
+838529004 | Mood disorder with mixed depressive and manic symptoms caused by amfetamine and amfetamine derivative (disorder)
+871840004 | Episode of depression (finding)
+251000119105 | Severe major depression, single episode (disorder)
+281000119103 | Severe recurrent major depression (disorder)
+10211000132109 | Perinatal depression (disorder)
+94631000119100 | Depressive disorder in mother complicating pregnancy (disorder)
+133121000119109 | Severe seasonal affective disorder (disorder)
+142001000119106 | Depressed mood in Alzheimer's disease (disorder)
+199111000000100 | Referral for guided self-help for depression (procedure)
+286711000000107 | Counseling for depression (procedure)
+288751000119101 | Reactive depressive psychosis, single episode (disorder)
+361761000000106 | On full dose long term treatment for depression (finding)
+755321000000106 | Single major depressive episode, severe, with psychosis, psychosis in remission (disorder)
+755331000000108 | Recurrent major depressive episodes, severe, with psychosis, psychosis in remission (disorder)
+764611000000100 | Recurrent major depressive episodes, severe (disorder)
+764691000000109 | Recurrent major depressive episodes, in partial remission (disorder)
+764701000000109 | Recurrent major depressive episodes, in remission (disorder)
+764711000000106 | Single major depressive episode, in remission (disorder)
+923921000000104 | Referral for depression self-help video (procedure)
+1086471000000100 | Recurrent reactive depressive episodes, severe, with psychosis (disorder)
+1086661000000100 | Reactive depression, prolonged single episode (disorder)
+1086671000000100 | Reactive depression, single episode (disorder)
+1086681000000100 | Reactive depression, recurrent (disorder)
+1086691000000100 | Reactive depression, first episode (disorder)
+1089511000000100 | Recurrent depression with current severe episode and psychotic features (disorder)
+1089631000000100 | Recurrent depression with current severe episode without psychotic features (disorder)
+1089641000000100 | Recurrent depression with current moderate episode (disorder)
+10811121000119100 | Major depressive disorder in mother complicating childbirth (disorder)
+10811161000119100 | Major depressive disorder in mother complicating pregnancy (disorder)
+10835871000119100 | Depressive disorder in mother complicating childbirth (disorder)
+16238181000119100 | Depressive disorder caused by amphetamine (disorder)
+16238221000119100 | Depressive disorder caused by methamphetamine (disorder)
+16264621000119100 | Recurrent mild major depressive disorder co-occurrent with anxiety (disorder)
+16264821000119100 | Recurrent severe major depressive disorder co-occurrent with anxiety (disorder)
+16264901000119100 | Recurrent moderate major depressive disorder co-occurrent with anxiety (disorder)
+16265301000119100 | Recurrent major depressive disorder in partial remission co-occurrent with anxiety (disorder)
+16265951000119100 | Mild major depressive disorder co-occurrent with anxiety single episode (disorder)
+16266831000119100 | Moderate major depressive disorder co-occurrent with anxiety single episode (disorder)
+16266991000119100 | Severe major depressive disorder co-occurrent with anxiety single episode (disorder)
+
+Recurrent depressive disorder
+Read V2 Code | Description
+E113. | Recurrent major depressive episode
+E1130 | Recurrent major depressive episodes, unspecified
+E1131 | Recurrent major depressive episodes, mild
+E1132 | Recurrent major depressive episodes, moderate
+E1133 | Recurrent major depressive episodes, severe, without mention of psychosis
+E1134 | Recurrent major depressive episodes, severe, with psychosis
+E1135 | Recurrent major depressive episodes, in partial or unspecified remission
+E1136 | Recurrent major depressive episodes, in full remission
+E1137 | Recurrent depression
+E113z | Recurrent major depressive episode NOS
+E2B1. | Chronic depression
+Eu32A | [X]Recurrent major depressive episodes, severe, with psychosis, psychosis in remission
+Eu33. | [X]Recurrent depressive disorder
+Eu330 | [X]Recurrent depressive disorder, current episode mild
+Eu331 | [X]Recurrent depressive disorder, current episode moderate
+Eu332 | [X]Recurrent depressive disorder, current episode severe without psychotic symptoms
+Eu333 | [X]Recurrent depressive disorder, current episode severe with psychotic symptoms
+Eu334 | [X]Recurrent depressive disorder, currently in remission
+Eu33y | [X]Other recurrent depressive disorders
+Eu33z | [X]Recurrent depressive disorder, unspecified
+
+Read CTV3 Code | Description
+Xa0wV | Recurrent brief depressive disorder
+XM1GC | Endogenous depression - recurrent
+E1130 | Recurrent major depressive episodes, unspecified
+E1131 | Recurrent major depressive episodes, mild
+E1132 | Recurrent major depressive episodes, moderate
+E1133 | Recurrent major depressive episodes, severe, without mention of psychosis
+E1134 | Recurrent major depressive episodes, severe, with psychosis
+XaX54 | Recurrent major depressive episodes, severe, with psychosis, psychosis in remission
+E1135 | Recurrent major depressive episodes, in partial or unspecified remission
+E1136 | Recurrent major depressive episodes, in full remission
+E113z | Recurrent major depressive episode NOS
+E1137 | Recurrent depression
+E2B1. | Chronic depression
+Eu331 | [X]Recurrent depressive disorder, current episode moderate
+XE1Y1 | Recurrent major depressive episodes
+XE1Zd | [X]Recurrent depressive disorder, current episode severe without psychotic symptoms
+XE1Ze | [X]Recurrent depressive disorder, current episode severe with psychotic symptoms
+XE1Zf | [X]Recurrent depressive disorder, unspecified
+
+SNOMED Code | Description
+15193003 | Severe recurrent major depression with psychotic features, mood-incongruent (disorder)
+16264621000119100 | Recurrent mild major depressive disorder co-occurrent with anxiety (disorder)
+16264821000119100 | Recurrent severe major depressive disorder co-occurrent with anxiety (disorder)
+16264901000119100 | Recurrent moderate major depressive disorder co-occurrent with anxiety (disorder)
+16265061000119100 | Recurrent major depressive disorder co-occurrent with anxiety in full remission (disorder)
+16265301000119100 | Recurrent major depressive disorder in partial remission co-occurrent with anxiety (disorder)
+18818009 | Moderate recurrent major depression (disorder)
+191610000 | Recurrent major depressive episodes, mild (disorder)
+191611001 | Recurrent major depressive episodes, moderate (disorder)
+191613003 | Recurrent major depressive episodes, severe, with psychosis (disorder)
+2618002 | Chronic recurrent major depressive disorder (disorder)
+268621008 | Recurrent major depressive episodes (disorder)
+274948002 | Endogenous depression - recurrent (disorder)
+281000119103 | Severe recurrent major depression (disorder)
+28475009 | Severe recurrent major depression with psychotic features (disorder)
+319768000 | Recurrent major depressive disorder with melancholic features (disorder)
+33078009 | Severe recurrent major depression with psychotic features, mood-congruent (disorder)
+33135002 | Recurrent major depression in partial remission (disorder)
+36474008 | Severe recurrent major depression without psychotic features (disorder)
+38694004 | Recurrent major depressive disorder with atypical features (disorder)
+39809009 | Recurrent major depressive disorder with catatonic features (disorder)
+40379007 | Mild recurrent major depression (disorder)
+66344007 | Recurrent major depression (disorder)
+68019004 | Recurrent major depression in remission (disorder)
+71336009 | Recurrent major depressive disorder with postpartum onset (disorder)
+720451004 | Minimal recurrent major depression (disorder)
+720452006 | Moderately severe recurrent major depression (disorder)
+755331000000108 | Recurrent major depressive episodes, severe, with psychosis, psychosis in remission (disorder)
+764611000000100 | Recurrent major depressive episodes, severe (disorder)
+764691000000109 | Recurrent major depressive episodes, in partial remission (disorder)
+764701000000109 | Recurrent major depressive episodes, in remission (disorder)
