@@ -1,0 +1,160 @@
+Specialist Dermatology Referral
+V2Codes | Description
+8HJD. | Dermatology self-referral
+8H43. | Dermatological referral
+8H4S. | Referral to dermatology special interest general practitioner
+8HHX. | Referral to dermatology nurse specialist
+8HTu. | Referral to eczema clinic
+8HVI. | Private referral to dermatologist
+8Hkq. | Referral to community dermatology service
+8Hm0. | Referral to dermatology clinical assessment service
+8HM3. | Listed for Dermatology admissn
+8H3I. | Non-urgent dermatology admisn.
+8HlJ4 | Internal practice dermatology referral
+8T0D. | Referral to paediatric dermatology service
+CTV3Codes | Description
+8H43. | Dermatological referral
+XaZJ0 | Referral to teledermatology service
+XaXsX | Referral to community dermatology service
+8HJD. | Dermatology self-referral
+XaBTS | Referral to dermatologist
+8HVI. | Private referral to dermatologist
+Xaaln | Internal practice dermatology referral
+XaKCB | Referral to dermatology nurse specialist
+XaXsX | Referral to community dermatology service
+Xaacp | Referral to paediatric dermatology service
+XaAeq | Referral for dermatology domiciliary visit
+XaLqL | Referral to dermatology special interest general practitioner
+XaQKh | Referral to dermatology clinical assessment service
+8HK3. | Dermatology DV requested
+XaAeq | Referral for dermatology DV
+SNOMEDCT | Description
+183701009 | Dermatology self-referral (procedure)
+183518005 | Referral to dermatology service (procedure
+785701000000106 |  Referral to community dermatology service (procedure)
+416076006 | Referral to pediatric dermatology service (procedure)
+416291002 | Referral to pediatric service for acne (procedure)
+836201000000101 | Referral to teledermatology service (procedure)
+306230007 | Referral for dermatology domiciliary visit (procedure)
+892161000000103 | Internal practice dermatology referral (procedure)
+415268007 | Referral to dermatology nurse specialist (procedure)
+504181000000101 | Referral to dermatology clinical assessment service (procedure)
+511291000000108 | Referral to eczema clinic (procedure)
+248991000000109 |  Referral to dermatology special interest general practitioner (procedure)
+308472003 | Referral to dermatologist (procedure)
+183897008 | Private referral to dermatologist (procedure)
+183711002 | Dermatology domiciliary visit requested (finding)
+
+Specialist Dermatology Review
+V2Codes | Description
+8HJD. | Dermatology self-referral
+8H43. | Dermatological referral
+8H4S. | Referral to dermatology special interest general practitioner
+8HHX. | Referral to dermatology nurse specialist
+8HTu. | Referral to eczema clinic
+8HVI. | Private referral to dermatologist
+8Hkq. | Referral to community dermatology service
+8Hm0. | Referral to dermatology clinical assessment service
+9N1S. | Seen in dermatology clinic
+9NI0. | Dermatology outreach clinic
+9NNW. | Under care of dermatologist
+8CMWF | On dermatology care pathway
+8HM3. | Listed for Dermatology admissn
+8H3I. | Non-urgent dermatology admisn.
+8HlJ4 | Internal practice dermatology referral
+8T0D. | Referral to paediatric dermatology service
+CTV3Codes | Description
+XaASq | Seen by dermatologist
+8H43. | Dermatological referral
+XaZJ0 | Referral to teledermatology service
+XaXsX | Referral to community dermatology service
+8HJD. | Dermatology self-referral
+XaBTS | Referral to dermatologist
+8HVI. | Private referral to dermatologist
+XaALj | Admission by dermatologist
+XE2NI | Seen in dermatology clinic
+XaAPH | Under care of dermatologist
+XaaFK | On dermatology care pathway
+XaAZz | Referral from dermatologist
+8HM3. | Listed for Dermatology admissn
+8H3I. | Non-urgent dermatology admission
+XaANK | Admission to dermatology department
+Xaaln | Internal practice dermatology referral
+8HK3. | Dermatology domiciliary visit requested
+XaKCB | Referral to dermatology nurse specialist
+XaXsX | Referral to community dermatology service
+Xaacp | Referral to paediatric dermatology service
+XaAeq | Referral for dermatology domiciliary visit
+XaLM5 | In-house dermatology follow-up appointment
+XaLqL | Referral to dermatology special interest general practitioner
+XaOl3 | Seen by general practitioner with special interest in dermatology
+XaQKh | Referral to dermatology clinical assessment service
+8HK3. | Dermatology D.V. requested
+XaAeq | Referral for dermatology DV
+SNOMEDCT | Description
+23861000087105 |  Adult dermatology (qualifier value)
+702847006 | Dermatology clinic (environment)
+700241009 |  Dermatology service (qualifier value)
+185491002 | In-house dermatology (procedure)
+201841000000109 | In-house dermatology first appointment (procedure)
+201851000000107 | In-house dermatology follow-up appointment (procedure)
+23971000087106 | Pediatric dermatology (qualifier value)
+773976008 |  Dermatology care plan (record artifact)
+773440003 | Dermatological surgery care plan (record artifact)
+183740004 | Dermatology domiciliary visit done (finding)
+309923008 | Dermatology department (environment)
+23871000087101 | Adult dermatology service (qualifier value)
+893941000000107 | Paediatric dermatology service (qualifier value)
+858911000000105 | Dermatology assessment (procedure)
+872851000000103 | Dermatology care pathway (regime/therapy)
+183701009 | Dermatology self-referral (procedure)
+183518005 | Referral to dermatology service (procedure
+785701000000106 |  Referral to community dermatology service (procedure)
+416076006 | Referral to pediatric dermatology service (procedure)
+416291002 | Referral to pediatric service for acne (procedure)
+836201000000101 | Referral to teledermatology service (procedure)
+270422009 | Seen in dermatology clinic (finding)
+183711002 | Dermatology domiciliary visit requested (finding)
+220851000000105 | High cost dermatology drugs (procedure)
+872811000000102 | On dermatology care pathway (situation)
+305810006 | Seen by dermatology service (finding)
+185484000 | Dermatology outreach clinic (environment)
+306230007 | Referral for dermatology domiciliary visit (procedure)
+702901004 |  Pediatric dermatology clinic (environment)
+893941000000107 | Paediatric dermatology service (qualifier value)
+394582007 | Dermatology (qualifier value)
+23971000087106 | Pediatric dermatology (qualifier value)
+959021000000104 | Paediatric dermatology care plan (record artifact)
+183770009 | Listed for Dermatology admission (finding)
+21700006 | Free-standing dermatology clinic (environment)
+702847006 | Dermatology clinic (environment)
+1093961000000107 | Dermatology shared care monitoring general practitioner review (procedure)
+361271000000105 | Dermatology management plan given (finding)
+1093941000000106 | Dermatology shared care monitoring (regime/therapy)
+858911000000105 | Dermatology assessment (procedure
+306582008 | Discharge from dermatology service (procedure)
+839731000000109 | Discharge from in-house dermatology (procedure)
+73007006 | Dermatology consultation and report (procedure)
+892161000000103 | Internal practice dermatology referral (procedure)
+415268007 | Referral to dermatology nurse specialist (procedure)
+185484000 |  Dermatology outreach clinic (environment)
+1093951000000109 | Dermatology shared care monitoring specialist review (procedure)
+785701000000106 | Referral to community dermatology service (procedure)
+30078008 |  Dermatology consultation and report, brief (procedure)
+361271000000105 | Dermatology management plan given (finding)
+25028003 | Dermatology consultation and report, comprehensive (procedure)
+73007006 | Dermatology consultation and report (procedure)
+504181000000101 | Referral to dermatology clinical assessment service (procedure)
+37550003 | Hospital-based outpatient dermatology clinic (environment)
+248991000000109 |  Referral to dermatology special interest general practitioner (procedure)
+342011000000109 |  Seen by general practitioner with special interest in dermatology (finding)
+305670001 | Seen by dermatologist (finding)
+308472003 | Referral to dermatologist (procedure)
+183897008 | Private referral to dermatologist (procedure)
+305966007 | Referral by dermatologist (procedure)
+306427002 | Discharge by dermatologist (procedure)
+305271006 | Admission by dermatologist (procedure)
+305670001 |  Seen by dermatologist (finding)
+305481008 | Under care of dermatologist (finding)
+511291000000108 | Referral to eczema clinic (procedure)
+382711000000103 |  Seen in fast track suspected skin cancer clinic (finding)
