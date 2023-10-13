@@ -1,0 +1,793 @@
+Improving access to psychological therapies (IAPT)
+Read V2 Code | Description
+38D7. | Improving Access to Psychological Therapies programme inclusion and employment questionnaire
+38D8. | Improving Access to Psychological Therapies programme work and social adjustment scale
+38D80 | Improving Access to Psychological Therapies programme Work and Social Adjustment Scale - work
+38D81 | Improving Access to Psychological Therapies programme Work and Social Adjustment Scale - home management
+38D82 | Improving Access to Psychological Therapies programme Work and Social Adjustment Scale - social leisure activities
+38D83 | Improving Access to Psychological Therapies programme Work and Social Adjustment Scale - private leisure activities
+38D84 | Improving Access to Psychological Therapies programme Work and Social Adjustment Scale - relationships
+38D9. | Improving Access to Psychological Therapies programme patient experience questionnaire part 1
+38DA. | Improving Access to Psychological Therapies programme patient experience questionnaire part 2
+38Du. | Improving Access to Psychological Therapies programme phobia scale
+38Du0 | Improving Access to Psychological Therapies programme phobia scale - Social situations due to a fear of being embarrassed or making a fool of myself
+38Du1 | Improving Access to Psychological Therapies programme phobia scale - Certain situations because of a fear of having a panic attack or other distressing symptoms
+38Du2 | Improving Access to Psychological Therapies programme phobia scale - Certain situations because of a fear of particular objects or activities
+8GQ.. | IAPT (Improving Access to Psychological Therapies) low intensity therapy
+8GR.. | IAPT (Improving Access to Psychological Therapies) high intensity therapy
+8Hh4. | Self-referral to IAPT (Improving Access to Psychological Therapies) programme
+8HkK. | Referral to improving access to psychological therapies programme
+Read CTV3 Code | Description
+XabnF | Improving Access to Psychological Therapies programme Work and Social Adjustment Scale - work
+XabnG | Improving Access to Psychological Therapies programme Work and Social Adjustment Scale - home management
+XabnH | Improving Access to Psychological Therapies programme Work and Social Adjustment Scale - social leisure activities
+XabnI | Improving Access to Psychological Therapies programme Work and Social Adjustment Scale - private leisure activities
+XabnJ | Improving Access to Psychological Therapies programme Work and Social Adjustment Scale - relationships
+Xaedk | Self-referral to IAPT (Improving Access to Psychological Therapies) programme
+XaeHl | IAPT (Improving Access to Psychological Therapies) low intensity therapy
+XaeHm | IAPT (Improving Access to Psychological Therapies) high intensity therapy
+XafEw | Signposting to IAPT (Improving Access to Psychological Therapies) service
+XaOdd | Improving Access to Psychological Therapies programme inclusion and employment questionnaire
+XaOk5 | Improving Access to Psychological Therapies programme work and social adjustment scale
+XaOkj | Improving Access to Psychological Therapies programme patient experience questionnaire part 2
+XaOkQ | Improving Access to Psychological Therapies programme patient experience questionnaire part 1
+XaPiJ | IAPT programme phobia scale
+XaPvw | Referral to improving access to psychological therapies programme
+XaQJ6 | Improving Access to Psychological Therapies programme phobia scale - Social situations due to a fear of being embarrassed or making a fool of myself
+XaQJ8 | Improving Access to Psychological Therapies programme phobia scale - Certain situations because of a fear of having a panic attack or other distressing symptoms
+XaQJB | Improving Access to Psychological Therapies programme phobia scale - Certain situations because of a fear of particular objects or activities
+SNOMEDCTCodes |	Description
+80201000000109 | Referral to improving access to psychological therapies programme (procedure) 
+374261000000109 | Improving access to psychological therapies programme phobia scale (assessment scale) 
+504101000000106 | Improving access to psychological therapies programme phobia scale - certain situations because of a fear of having a panic attack or other distressing symptoms (assessment scale) 
+504091000000103 | Improving access to psychological therapies programme phobia scale - certain situations because of a fear of particular objects or activities (assessment scale) 
+504111000000108 | Improving access to psychological therapies programme phobia scale - social situations due to a fear of being embarrassed or making a fool of myself (assessment scale) 
+1026111000000108 | Improving Access to Psychological Therapies low intensity therapy (regime/therapy) 
+380201000000109 | Referral to improving access to psychological therapies programme (procedure) 
+1026131000000100 | Improving Access to Psychological Therapies high intensity therapy (regime/therapy) 
+1053791000000108 | Signposting to Improving Access to Psychological Therapies service (procedure)
+1363001000000106 | Referral to Improving Access to Psychological Therapies programme offered (situation) 
+1036481000000106 | Self-referral to Improving Access to Psychological Therapies programme (procedure)
+341891000000103 | Improving access to psychological therapies programme work and social adjustment scale (assessment scale) 
+932481000000101 | Improving Access to Psychological Therapies programme Work and Social Adjustment Scale - home management (assessment scale)
+932521000000101 | Improving Access to Psychological Therapies programme Work and Social Adjustment Scale - private leisure activities (assessment scale) 
+932541000000108 | Improving Access to Psychological Therapies programme Work and Social Adjustment Scale - relationships (assessment scale) 
+932501000000105 | Improving Access to Psychological Therapies programme Work and Social Adjustment Scale - social leisure activities (assessment scale)
+932461000000105 | Improving Access to Psychological Therapies programme Work and Social Adjustment Scale - work (assessment scale) 
+341461000000107 | Improving access to psychological therapies programme inclusion and employment questionnaire (assessment scale) 
+341981000000107 | Improving access to psychological therapies programme patient experience questionnaire part 2 (assessment scale) 
+341951000000101 | Improving access to psychological therapies programme patient experience questionnaire part 1 (assessment scale) 
+1323831000000101 | Improving Access to Psychological Therapies assessment observables simple reference set (foundation metadata concept) 
+1091371000000103 | Assessment using Improving Access to Psychological Therapies programme phobia scale (procedure) 
+747831000000105 | Improving Access to Psychological Therapies treatment Patient Experience Questionnaire (assessment scale) 
+747841000000101 | Assessment using Improving Access to Psychological Therapies assessment Patient Experience Questionnaire (procedure) 
+1091671000000106 | Improving Access to Psychological Therapies Programme phobia scale - Certain situations because of a fear of having a panic attack or other distressing symptoms score (observable entity)
+1091691000000105 | Improving Access to Psychological Therapies Programme phobia scale - Social situations due to a fear of being embarrassed or making a fool of myself score (observable entity) 
+1091681000000108 | Improving Access to Psychological Therapies Programme phobia scale - Certain situations because of a fear of particular objects or activities score (observable entity) 
+932611000000106 | Improving Access to Psychological Therapies programme Work and Social Adjustment Scale - social leisure activities score (observable entity) 
+932591000000103 | Improving Access to Psychological Therapies programme Work and Social Adjustment Scale - private leisure activities score (observable entity) 
+747891000000106 | Improving Access to Psychological Therapies assessment Patient Experience Questionnaire satisfaction question 1 score (observable entity) 
+747881000000109 | Improving Access to Psychological Therapies assessment Patient Experience Questionnaire choice question 3 score (observable entity)
+904691000000103 | Improving Access to Psychological Therapies assessment Patient Experience Questionnaire choice question 4 score (observable entity) 
+747871000000107 | Improving Access to Psychological Therapies assessment Patient Experience Questionnaire choice question 2 score (observable entity) 
+932581000000100 | Improving Access to Psychological Therapies programme Work and Social Adjustment Scale - home management score (observable entity) 
+747941000000105 | Improving Access to Psychological Therapies treatment Patient Experience Questionnaire question 5 score (observable entity) 
+747851000000103 | Assessment using Improving Access to Psychological Therapies treatment Patient Experience Questionnaire (procedure) 
+747951000000108 | Improving Access to Psychological Therapies treatment Patient Experience Questionnaire question 6 score (observable entity)
+
+Psychiatry Review
+Read V2 Code | Description
+3822. | Diagnostic psych interview
+6653. | Initial psych assessment 
+6654. | Follow-up psych assessment
+384.. | Psychoanalysis
+665G. | Injectable neuroleptic managed by CMHT
+69F2. | Section exam - approved doctor
+7P22. | Rehabilitation for psychiatric disorders
+7P220 | Deliverty of rehab for drug addiction
+7P221 | Delivery of rehab for alcohol addiction
+7P22y | Other specific rehab psychiatric disorder
+7P22z | Rehab for psychiatric disorder NOS
+8A2.. | Psychiatric monitoring
+8A21. | Psychiatric observation
+8A2Z. | Psychiatric monitoring NOS
+8CM2. | Psychiatry care plan
+8H23. | Admit psychiatric emergency
+8H230 | Emergency psychiatric admission MHA
+8H2L. | Admit psychogeriatric emergency
+8H34. | Psychiatric day care
+8H38. | Non-urgent psychiatric admission
+8H3Q. | Non-urgent psychogeriatric admission
+8H49. | Psychiatric referral
+8H4D. | Referral to psychiatrist for the elderly mentally ill
+8H4f. | Referral to learning disabilities psychiatrist
+8H4P. | Referral to child psychiatrist
+8H7B. | Refer to CPN
+8Hc. | Referral to mental health team
+8Hc1 | Referral to community mental health team
+8Hc2 | Referral to mental health crisis team
+8Hg3. | Discharged from community mental health service
+8HHo. | Referral to old age community mental health team
+8HHR. | Referral to child and adolescent psychiatry clinic
+8HHs. | Referral to psychosis early intervention service
+8HIB. | Urgent referral to psychiatrist
+8Hj2. | referral to psycho-education group
+8HJ3. | Psychiatric self-referral
+8HM9. | Listed for psychiatric admission
+8HMC. | Listed for Psychogeriatri admiss
+8Hnn. | Referral to non NHS mental health service
+8HTc. | Referral to psychosexual clinic
+8HVO. | Private referral to psychiatrist
+8HVS. | Private referral to psychogeriatrician
+9H1.. | Form 4 - admit to hosp assess
+9H11. | Form 4 assess
+9H12. | Form 4 passed to social worker
+9H13. | Form 4 fee paid
+9H14. | Form 4 fee unpaid
+9H1Z. | Form 4 NOS
+9H2.. | Form 5/7 emerg admit assess
+9H21. | Form 7 - medical recommendation
+9H22. | Form 5 - nearest relative recom
+9H23. | Form 7 - fee to soc services 
+9H24. | Form 7 - fee paid
+9H25. | Form 7 - fee unpaid
+9H2Z. | Form 5/7 NOS
+9H4.. | Section 2 form - compulsary admission for assessment 
+9H41. | Form 2 completed 
+9H42. | Form 2 passed to social worker
+9H43. | Form 2 passed to nearest relative
+9H44. | Form 2 fee paid
+9H45. | Form 2 fee unpaid
+9H4Z. | Form 2 NOS
+9H5.. | Section 3 form - compulsary admission for treatment
+9H51. | Form 3 completed 
+9H52. | Form 3 passed to social worker
+9H53. | Form 3 passed to nearest relative
+9H54. | Form 3 fee paid
+9H55. | Form 3 fee unpaid
+9H5Z. | Form 3 NOS
+9HC5. | Substance misuse treatment programme completed 
+9HC9. | Substance misuse programme del other healthcare provider
+9HCC. | On substance misuse programme.
+9HD.. | Offering of CAMHS choice appointment
+9HE.. | Removal of sbj by trsft dirctn to hospital under S47 MHA 1983
+9HF.. | Removal of sbj by trsft dirctn to hospital under S48 MHA 1983
+9N0B. | Seen in psychogeriatric clinic
+9N1T. | Seen in psychiatry clinic
+9N2E2 | Seen by core psychiatry trainee doctor
+9N4g. | DNA - Did not attend psychiatry clinic
+9N4j. | DNA - Did not attend CPN review
+9N4N. | DNA mental health appointment
+9N4N0 | DNA child and adolescent mental health service appointment
+9N4N1 | DNA CAMHS choice appointment
+9N4N2 | DNA CAMHS partnership appointment 
+9N4N3 | DNA CAMHS return appointment
+9N6h. | Referral by mental health service
+9NI6. | Psychiatric outreach clinic
+9NIa. | Seen by psychiatrist
+9NIa0 | Seen by child and adolescent psychaitrist 
+9NIa1 | Seen by consultant psychiatrist 
+9NIG. | Seen by forensic psychiatrist
+9NJb. | In-house psychiatry first appointment 
+9NJc. | In-house psychiatry discharge 
+9NJd. | In-house psychiatry follow up appointment
+9Nk6. | Seen in mental health clinic
+9NN5. | Under care of psychiatrist
+9NN7. | Under care of mental health team
+9NN70 | Under care of mental health in-reach team
+9NNQ. | Under care of hospital psychiatric team
+9No0. | Seen in child and adolescent psychiatry clinic
+9NS1. | Attended psycho-educational group
+Read CTV3 Code | Description
+69F2. | Section examination - approved doctor
+8G43.  | Rehabilitation for disabling psychiatric problem
+8H23. | Admit psychiatric emergency
+8H230 | Emerg psychiatric admiss MHA
+8H34. | Psychiatric day care
+8H38. | Non-urgent psychiatric admisn.
+8H3Q. | Non urgent psychogeriatric admission 
+8H49. | Psychiatric referral
+8H4D. | Referral to psychogeriatrician
+8H4P. | Referral to child psychiatrist
+8H7B. | Referral to CPN
+8HHR. | Referral to child and adolescent psychiatry service
+8HJ3. | Psychiatric self-referral
+8HlB. | Urgent referral to psychiatrist
+8HlD. | Referral to forensic psychiatrist
+8HM9. | Listed for Psychiatric admissn
+8HV0. | Private referral to psychiatrist
+8HVO. | Private referral to psychiatrist
+8HVS. | Private referral to psychogeriatrian
+9H4.. | Section 2 form - compulsary admission for assessment
+9H5.. | Section 3 form - compulsary admission for treatment
+9N1T. | Seen in psychiatry clinic
+9N2E2 | Seen by core psychiatry trainee doctor
+9NI6. | Psychiatric outreach clinic
+9NJb. | In-house psychiatry first appointment
+9NJc. | In-house psychiatry discharge
+9NJd. | In-house psychiatry follow-up appointment
+9Nla. | Seen by psychiatrist
+9Nla0 | Seen by child and adolescent psychiatrist
+9Nla1 | Seen by consultant psychiatrist
+9NlG. | Seen by forensic psychiatrist
+9NN5. | Under care of psychiatrist
+9No0. | Seen in child and adolescent psychiatry clinic
+Xa9Ef | MHRT referral under MHA 1983
+Xa9IX | Assessment for adm to hosp for assessm Section 2 MHA 1983
+Xa9IY | Assessment for adm to hosp for treatment Section 3 MHA 1983
+Xa9IZ | Assessment for emerg adm to hosp under Section 4 MHA 1983
+Xa9Jb | Completion of form relating to MHA 1983
+Xa9Jd | Completion of MHA 1983 form 2
+Xa9Jf | Completion of MHA 1983 form 3
+Xa9Jh | Completion of MHA 1983 form 4
+Xa9Jj | Completion of MHA 1983 form 7
+Xa9Jn | Completion of MHA 1983 form 10
+Xa9Jp | Completion of MHA 1983 form 12
+Xa9Jq | Completion of MHA 1983 form 38
+Xa9Jr | Completion of MHA 1983 form 39
+Xa9Js | Completion of MHA 1983 form 117
+Xa9Jt | Completion of MHA 1983 form 62
+Xa9lb | Assessment for detention in hospital under Sect 5 MHA 1983
+Xa9lc | Assessment for detent in hosp using nurses holding power S5(4) MHA 1983
+Xa9ld | Assessment for detent in hosp Section 5(2) MHA 1983
+Xa9le | Assessment for admiss to hosp on remand for reprt S35 MHA 9183
+Xa9lf | Assessment for adm to hsp for remd for treatm S36 MHA 1988
+Xa9lg | Assessment for adm to hsp on hsp order S37 MHA 1983
+Xa9lh | Assessment for adm to hsp on interm hsp ordr Sect 38 MHA 1983
+Xa9li | Assessm for adm to hsp under comm by mag court Sect 44 MHA 1983
+Xa9lj | Assessment for adm to hsp subj armd forc disc proc S46 Mha 1983
+Xa9lk | Assessm for adm to hsp of pretrial prisoner Sect 48 MHA 1983
+Xa9ll | Assessm for adm to hsp for sentanced prisnr Sect 47 MHA 1983
+XaAaG | Referral by psychiatrist
+XaAaH | Referral by child and adolescent psychiatrist
+XaAaI | Referral by forensic psychiatrist
+XaAaJ | Referral by liaision psychiatrist
+XaAaK | Referral by psychogeriatrician
+XaAaL | Referral by psychiatrist for mental handicap
+XaAaM | Referral by rehabilitation psychiatrist
+XaAcy | Referral to child and adolescent psychiatry sercice
+XaAcz | Referral to forensic psychiatry service
+XaAd0 | Referral to liasion psychiatry service
+XaAd1 | Referral to mental handicap psychiatry service
+XaAd2 | Referral to psychogeriatric service
+XaAd3 | Referral to rehabilitation psychiatry service
+XaAeL | Referral to psychiatry day hospital
+XaAgA | Referral to child and adolescent psychiatrist
+XaAgB | Referral to forensic psychiatrist
+XaAgC | Referral to liaision psychiatrist
+XaAgE | Referral to learning disabilities psychiatrist
+XaAgF | Referral to rehabilitation psychiatrist
+XaaHU | Seen by core psychiatry trainee doctor
+XaAjL | Discharge by psychiatrist
+XaAjM | Discharge by child and adolescent psychiatrist
+XaAjN | Discharge by forensic psychiatrist
+XaAjO | Discharge by liaision psychiatrist
+XaAjP | Discharge by psychogeriatrician
+XaAjQ | Discharge by psychiatrist for mental handicap
+XaAjR | Discharge by rehabilitation psychiatrist
+XaAM0 | Admission by psychiatrist
+XaAM1 | Admission by child and adolescent psychiatrist
+XaAM2 | Admission by forensic psychiatrist
+XaAM3 | Admission by liaision psychiatrist
+XaAM4 | Admission by psychogeriatrician
+XaAM5 | Admission by psychiatrist for mental handicap
+XaAM6 | Admission by rehabilitation psychiatrist
+XaAmz | Discharge from psychiatry service
+XaAn2 | Discharge from child and adolescent psychiatry service
+XaAn5 | Discharge forensic psychiatry service
+XaAn8 | Discharge from liasion psychiatry service
+XaAnB | Discharge from mental health psychiatry service
+XaAnE | Discharge from psychogeriatric service
+XaAnH | Discharge from rehabiltation psychiatry service
+XaANs | Admission to psychiatry department
+XaANt | Admission to child and adolescent psychiatry department 
+XaANu | Admission to forensic psychiatry department 
+XaANv | Admission to psychogeriatric department 
+XaANw | Admission to mental handicap psychiatry department 
+XaANx | Admisssion to rehabilitation psychiatry department 
+XaAPn | Under care of psychiatrist
+XaAPo | Under care of child and adolescent psychiatrist
+XaAPp | Under care of forensic psychiatrist
+XaAPq | Under care of liaision psychiatrist
+XaAPr | Under care of psychogeriatrician
+XaAPs | Under care of psychiatrist for mental handicap
+XaAPt | Under care of psychogeriatrician
+XaAQo | Under care of CPN
+XaATC | Seen by psychiatrist
+XaATD | Seen by child and adolescent psychiatrist
+XaATE | Seen by forensic psychiatrist
+XaATF | Seen by liaison psychiatrist
+XaATG | Seen by psychogeriatrician
+XaATH | Seen by psychiatrist for mental handicap
+XaATI | Seen by rehabilitation psychiatrist
+XaAUA | Seen by community psychiatric nurse
+XaAXL | Seen by psychiatry - service
+XaAXM | Seen by child and adolescent psychiatry - service
+XaAXN | Seen by forensic psychiatry - service
+XaAXO | Seen by mental handicap psychiatry - service
+XaAXP | Seen by psychogeriatric - service
+XaAXQ | Seen by psychogeriatric - service
+XaAXR | Seen by rehabilitation psychiatry - service
+XaAZ1 | Seen in psychiatry day hospital
+XaB1g | Mental health act forms 
+XaBtN | Psychiatric therapy
+XaBTX | Referral to psychiatrist
+XaccJ | CAMHS choice appt cancelled by clinician
+XaccK | CAMHS partnership appt cancelled by clinician
+XaccL | CAMHS return appt cancelled by clinician
+XacpV | Completion medcl rept adm to hsp snrncd prisn undr S47 MHA 1983
+XaCPW | Completion of medical report for admission hospital prtiral prisner und S48 MHA 1983
+XagSS | H/O hospital admission for psychiatric disorder
+XaIOj | Secure and high-dependency mental health care
+XaIOm | Early intervention in psychosis
+XaIOo | General psychiatric care older adults 
+XaITI | Mental health crisis resolution - daily intensive
+XaIUx | Mental health crisis - 24 hour intensive
+XaIUy | General psychiatric care adults working age 24 hour intensive
+XaIUz | General psychiatric care adults working age 24 hour not intensive
+XaIV0 | General psychiatric care adults working age full day
+XaIVC | General psychiatric care older adults - 24 hour not intensive
+XaIVD | General psychiatric care older adults - full day care
+XaIWd | Mental health addiction programme 24 hour non intensive
+XaIWe | Mental health addiction programme 24 hour intensive
+XaJp0 | Did not attend psychiatry clinic 
+XaJQU | Admission to psychiatry intensive care unit 
+XaK5q | Admission to MH specialist services
+XaK71 | Assmnt for amd to MH serv under MA Act 1983
+XaL19 | Referral to psychosis early intervention service
+XaLoA | In-house psychiatry first appintment 
+XaLoB. | In-house psychiatry
+XaLoC | In-house psychiatry discharge
+XaLoD | In-house psychiatry follow-up appointmnet
+XaLst | Rehabilitation for psychiatric disorders
+XaLsu | Other specified rehabilitation for psychiatric diroder
+XaLsv | Rehabilitation for psychiatric disorder NOS
+XaMo7 | H/o detention under MHA 1983
+XaNIN | Emergency informal psychiatric admission
+XaNTc | Discharged from community mental health team
+XaPDH | Urgent referral to psychiatrist
+XaZsy | Seen by consultant psychiatrist
+XE2Mu | Section 4 form - compulsary admissn for assm in emergency
+XE2N0 | Form 5/7 emergency admission assessment
+XE2N1 | Section 7 form - medical recommendation
+XE2N2 | Section 5 form - nearest relative recommendation
+XE2XN | Form 3 section 18 - non urgent hospital admission
+XE2XT | Form A section 24/25 emergency admission
+XSBbs | Psychiatric rehabilitation
+ZV69. | [V] Psychiatric patient admission details
+ZV690 | [V] Psychiatric patient - not previouly admitted
+ZV691 | [V] Psychiatric patient - prev admitted this health care provider
+ZV692 | [V] Psych patient - prev admitted other health care provider
+ZV962 | [V] Psychiatric patient - previous admit other district
+
+Psychotherapy
+ReadV2Code | Description
+8G... | Psychotherapy
+8G1.. | General psychotherapy
+8G10. | Psychotherapy - behavioural
+8G100 | Behavioural activation therapy
+8G101 | Dialectical behaviour therapy
+8G102 | Behavioural parent training
+8G11. | Psychotherapy - cognitive
+8G12. | Psychotherapy - psychodynamic
+8G120 | Short-term psychodynamic therapy
+8G121 | Dynamic interpersonal therapy
+8G122 | Focal psychodynamic therapy
+8G14. | Cognitive analytic therapy
+8G15. | Computerised cognitive behavioural therapy
+8G16. | Interpersonal psychotherapy
+8G18. | Cognitive stimulation therapy
+9NlK. | Seen by psychotherapist
+9NlK0 | Seen by trainee psychotherapist
+8HHT. | Referral to psychotherapist
+ZV57D | [V]Psychotherapy, not elsewhere classified
+ZV673 | [V]Psychotherapy or other treatment for mental disorder follow-up
+8G9Z. | Other psychotherapy NOS
+8G9.. | Other psychotherapy
+8GZ.. | Psycho./socio.- therapy NOS
+ReadCTV3Code | Description
+X71bp | Psychotherapy
+XaaUO | Cognitive rehabilitation therapy
+XaItc | Brief solution focused psychotherapy
+Xa8IG | Psychoanalytic and psychodynamic therapy
+Xa8IJ | Long-term exploratory psychotherapy
+3841. | Psychoanalysis
+XaA8V | Generic psychoanalysis
+XaA8W | Independent psychoanalysis
+XaA8T | Kleinian psychoanalysis
+XaA8U | Bion-based group psychoanalysis
+XaA8X | Classical psychoanalysis
+XaA8Y | Lacanian psychoanalysis
+XaA8g | Group psychoanalysis
+384Z. | Psychological analysis NOS
+Xa8IM | Jungian-based therapy
+Xa8IN | Generic Jungian-based therapy
+Xa8IP | Analytical psychology
+Xa8IR | Long-term psychodynamic psychotherapy
+XaA8Z | Developmental psychodynamic psychotherapy
+XaA8c | Supportive expressive psychodynamic psychotherapy
+XaA8d | Psychodynamic-interpersonal psychotherapy
+XaEVq | Psychodynamic psychotherapy
+Xad7C | Focal psychodynamic therapy
+Xa8II | Short-term psychodynamic therapy
+XaXuc | Dynamic interpersonal therapy
+XaA9g | Specific task orientated psychotherapy
+XE0iL | Psychotherapy/sociotherapy
+8G9Z. | Other psychotherapy NOS
+8G9.. | Other psychotherapy
+8G1.. | General psychotherapy
+8G10. | Psychotherapy - behavioural
+8G11. | Psychotherapy - cognitive
+8G12. | Psychotherapy - psychodynamic
+XaAUN | Seen by psychotherapist
+Xaa4f | Seen by trainee psychotherapist
+SNOMEDCTID | Description
+75516001 | Psychotherapy (regime/therapy)
+183405004 | Anti-criminal psychotherapy (regime/therapy)
+183401008 | Anti-suicide psychotherapy (regime/therapy)
+700445002 | Attachment-based therapy (regime/therapy)
+166001 | Behavioral therapy (regime/therapy)
+3518004 | Aversive psychotherapy (regime/therapy)
+228557008 | Cognitive and behavioral therapy (regime/therapy)
+401157001 | Brief solution focused psychotherapy (regime/therapy)
+429159005 | Child psychotherapy (regime/therapy)
+427954006 | Child psychoanalytic psychotherapy (regime/therapy)
+38678006 | Client-centered psychotherapy (regime/therapy)
+41035007 | Conjoint psychotherapy (regime/therapy)
+440274001 | Couple psychotherapy (regime/therapy)
+723619005 | Behavioral couple psychotherapy (regime/therapy)
+183398005 | Daily life psychotherapy (regime/therapy)
+405793004 | Eclectic psychotherapy (regime/therapy)
+15558000 | Expressive psychotherapy (regime/therapy)
+736861004 | Systemic psychotherapy (regime/therapy)
+302245002 | Family, systemic, couple and sex therapy (regime/therapy)
+405792009 | Formal psychological therapy (regime/therapy)
+183385001 | Functional psychotherapy (regime/therapy)
+183381005 | General psychotherapy (regime/therapy)
+183382003 | Psychotherapy - behavioral (regime/therapy)
+183383008 | Psychotherapy - cognitive (regime/therapy)
+76168009 | Group psychotherapy (regime/therapy)
+1555005 | Brief group psychotherapy (regime/therapy)
+108313002 | Family psychotherapy procedure (regime/therapy)
+302247005 | Narrative family psychotherapy (regime/therapy)
+361229007 | Structural family psychotherapy (regime/therapy)
+27591006 | Group analytical psychotherapy (regime/therapy)
+28868002 | Interactive group medical psychotherapy (regime/therapy)
+1106951000000100 | Interpersonal psychotherapy for group (regime/therapy)
+1066811000000100 | High intensity psychological intervention in combination with medication (regime/therapy)
+302243009 | Humanistic and integrative therapy (regime/therapy)
+313105004 | Action therapy (regime/therapy)
+304825004 | Humanistic psychotherapy (regime/therapy)
+304826003 | Integrative psychotherapy (regime/therapy)
+390773006 | Cognitive analytic therapy (regime/therapy)
+440582002 | Psychosynthesis (regime/therapy)
+18512000 | Individual psychotherapy (regime/therapy)
+8411005 | Interactive individual medical psychotherapy (regime/therapy)
+443730003 | Interpersonal psychotherapy (regime/therapy)
+1108261000000100 | Interpersonal and social rhythm therapy (regime/therapy)
+700446001 | Parent-infant psychotherapy (regime/therapy)
+302235004 | Psychoanalytic and psychodynamic therapy (regime/therapy)
+440646003 | Educational psychotherapy (regime/therapy)
+302236003 | Long-term exploratory psychotherapy (regime/therapy)
+302238002 | Jungian-based therapy (regime/therapy)
+302240007 | Analytical psychology (regime/therapy)
+302239005 | Generic Jungian-based therapy (regime/therapy)
+302242004 | Long-term psychodynamic psychotherapy (regime/therapy)
+304820009 | Developmental psychodynamic psychotherapy (regime/therapy)
+304822001 | Psychodynamic-interpersonal psychotherapy (regime/therapy)
+304821008 | Supportive expressive psychodynamic psychotherapy (regime/therapy)
+53508008 | Psychodrama (regime/therapy)
+314034001 | Psychodynamic psychotherapy (regime/therapy)
+718023002 | Focal psychodynamic therapy (regime/therapy)
+1323681000000100 | Eating-disorder-focused focal psychodynamic therapy (regime/therapy)
+429048003 | Short-term psychodynamic therapy (regime/therapy)
+786721000000109 | Dynamic interpersonal therapy (regime/therapy)
+1111671000000100 | Transference focused psychotherapy (regime/therapy)
+397074006 | Psychologic desensitization therapy (regime/therapy)
+302248000 | Psychotherapeutic approaches using specific settings (regime/therapy)
+266744007 | Psychotherapy/sociotherapy (regime/therapy)
+6227009 | Relationship psychotherapy (regime/therapy)
+345181000000108 | Marital psychotherapy (regime/therapy)
+63386006 | Sexual psychotherapy (regime/therapy)
+15142007 | Sexual psychotherapy, female therapist - female patient (regime/therapy)
+113144009 | Sexual psychotherapy, female therapist - male patient (regime/therapy)
+26693005 | Sexual psychotherapy, group (regime/therapy)
+33661004 | Sexual psychotherapy, group, all female (regime/therapy)
+41653002 | Sexual psychotherapy, group, all male (regime/therapy)
+31408009 | Sexual psychotherapy, group, male and female (regime/therapy)
+305111000000109 | Relationship psychosexual therapy (regime/therapy)
+66060003 | Sexual psychotherapy, male therapist - female patient (regime/therapy)
+73139001 | Sexual psychotherapy, male therapist - male patient (regime/therapy)
+90102008 | Social psychotherapy (regime/therapy)
+304851002 | Specific task orientated psychotherapy (regime/therapy)
+183391004 | Stimulative psychotherapy (regime/therapy)
+361230002 | Structural psychotherapy (regime/therapy)
+85925008 | Supportive verbal psychotherapy (regime/therapy)
+84892007 | Suppressive psychotherapy (regime/therapy)
+183411001 | Therapeutic psychology (regime/therapy)
+394913002 | Psychotherapy (specialty) (qualifier value)
+1323761000000100 | Medical psychotherapy (qualifier value)
+773451003 | Psychotherapy care plan (record artifact)
+305878005 | Seen by psychotherapy service (finding)
+299695005 | Competitive games psychotherapy (regime/therapy)
+81294000 | Patient referral for psychotherapy (procedure)
+183374003 | Convalescence after psychotherapy (finding)
+763151000000107 | Did not attend psychotherapy appointment (finding)
+1079251000000100 | Emergency hospital admission to psychotherapy service (procedure)
+305761008 | Seen by psychotherapist (finding)
+865241000000103 | Seen by trainee psychotherapist (finding)
+306055009 | Referral by psychotherapist (procedure)
+824211000000108 | Liaison with psychotherapist (procedure)
+306526008 | Discharge by psychotherapist (procedure)
+305589008 | Under care of psychotherapist (finding)
+305744005 | Seen by nurse psychotherapist (finding)
+306038005 | Referral by nurse psychotherapist (procedure)
+306503001 | Discharge by nurse psychotherapist (procedure)
+305567009 | Under care of nurse psychotherapist (finding)
+
+Cognitive Behaviour Therapy (CBT)
+V2Codes | Description
+8G13. | Cognitive-behaviour therapy
+8G130 | Cognitive behavioural therapy parenting programme
+8G131 | CBTp - cognitive behavioural therapy for psychosis
+7L1a. | Cognitive behavioural therapy
+7L1a0 | Cognitive behavioural therapy by unidisciplinary team
+7L1a1 | Cognitive behavioural therapy by multidisciplinary team
+7L1ay | Other specified cognitive behavioural therapy
+7L1az | Cognitive behavioural therapy NOS
+8G510 | Group cognitive behavioural therapy
+8G15. | Computerised cognitive behavioural therapy
+8HlK. | Referral for cognitive behavioural therapy
+CTV3Codes | Description
+Ub0qp | Cognitive and behavioural therapy
+XaABO | Cognitive - behaviour therapy
+Xad6J | Cognitive behavioural therapy for psychosis
+Xaaa6 | Cognitive behavioural therapy parenting programme
+XaQC0 | Guided self help cognitive behavioural therapy
+XaKzQ | Computerised cognitive behavioural therapy
+Xa8I9 | Generic cognitive behavioural therapy
+XaM2I | Cognitive behavioural therapy by unidisciplinary team
+XaM2J | Cognitive behavioural therapy by multidisciplinary team
+XaM2K | Other specified cognitive behavioural therapy
+XaM2L | Cognitive behavioural therapy NOS
+XaR2j | Referral to cognitive behavioural therapist
+XaR5D | Referral for cognitive behavioural therapy
+XaYgB | Referral for high intensity cognitive behavioural therapy
+XaZsD | Group cognitive behavioural therapy
+SNOMEDCTCodes | Description
+228557008 | Cognitive and behavioral therapy (regime/therapy)
+425680009 | Cognitive behavioral therapy by multidisciplinary team (regime/therapy)
+868185009 | Cognitive behavioral therapy for insomnia (regime/therapy)
+718026005 | Cognitive behavioral therapy for psychosis (regime/therapy)
+231621000000108 | Cognitive behavioural therapy by unidisciplinary team (regime/therapy)
+1111811000000109 | Cognitive behavioural therapy for eating disorders (regime/therapy)
+883841000000104 | Cognitive behavioural therapy parenting programme (regime/therapy)
+228553007 | Cognitive therapy (regime/therapy)
+302234000 | Becks cognitive therapy (regime/therapy)
+702474001 | Cognitive rehabilitation therapy (regime/therapy)
+304637004 | Cognitive restructuring (regime/therapy)
+386241007 | Cognitive stimulation (regime/therapy)
+1024851000000107 | Cognitive-linguistic therapy (regime/therapy)
+975281000000106 | Rapid instructional pacing (regime/therapy)
+228555000 | Rational emotive therapy (regime/therapy)
+429329005 | Computerized cognitive behavioral therapy (regime/therapy)
+1109721000000108 | Digital cognitive behavioural therapy for insomnia (regime/therapy)
+302230009 | Generic cognitive behavioral therapy (regime/therapy)
+444175001 | Guided self-help cognitive behavioral therapy (regime/therapy)
+439916005 | Paradoxical intention behavior therapy (regime/therapy)
+859501000000107 | Group cognitive behavioural therapy (regime/therapy)
+519101000000109 | Referral for cognitive behavioural therapy (procedure)
+1097161000000100 | Referral for cognitive behavioural therapy for psychosis (procedure)
+1107191000000102 | Referral for digital cognitive behavioural therapy for insomnia (procedure)
+814131000000101 | Referral for high intensity cognitive behavioural therapy (procedure)
+1107181000000104 | Signposting for digital cognitive behavioural therapy for insomnia (procedure)
+1107201000000100 | Self referral for digital cognitive behavioural therapy for insomnia (procedure)
+
+Counselling
+ReadV2Code | Description
+67... | 11 | Counselling/health education
+671.. | Counselling - general
+6712 | Counselling offered
+6714 | Counselling carried out
+6715 | Counselling by other agency
+6716 | Counselling of benefit
+6717 | Counselling of no benefit
+671Z. | Counselling - general NOS
+6735 | Counselled by a social worker
+6736 | Counselled by a counsellor
+6737 | Counselled by a vol. worker
+673Z. | Counselled by person NOS
+8M8.. | Counselling requested
+9NJ1. | In-house counselling
+9NJR. | In-house counselling first appointment
+9NJT. | In-house counselling follow-up appointment
+ReadCTV3Code | Description
+X71Ec | Counselling
+X71Ep | Coping strategy counselling
+XaEC1 | Phobia counselling
+XaD27 | Family counselling
+6779. | Psychological counselling
+XaECG | Anxiety counselling
+XaECF | Self-esteem counselling
+XaI8j | Stress counselling
+6715. | Counselling by other agency
+6735. | Counselled by a social worker
+6736. | Counselled by a counsellor
+6737. | Counselled by voluntary worker
+673Z. | Counselled by person NOS
+9N2B. | Seen by counsellor
+XaAS4 | Seen by mental health counsellor
+XaBT1 | Refer to counsellor
+XaAfJ | Referral to mental health counsellor
+9NJ1. | In-house counselling
+XaLnp | In-house counselling first appointment
+XaLnr | In-house counselling follow-up appointment
+671.. | Counselling - general
+6712. | Counselling offered
+6714. | Counselling carried out
+6716. | Counselling of benefit
+6717. | Counselling of no benefit
+671Z. | Counselling - general NOS
+XaAOd | Under care of counsellor
+XaAOh | Under care of mental health counsellor
+XaAen | Referral for mental health counselling
+SNOMEDTERMID | Description
+409063005 | Counseling (procedure) 
+413473000 | Counseling about alcohol consumption (procedure) 
+243068007 | Counseling about bullying (procedure) 
+243067002 | Counseling about coping strategies (procedure) 
+247871000000103 | Anger management counselling (procedure) 
+313075001 | Counseling for phobia (procedure) 
+445142003 | Counseling about disease (procedure) 
+24165007 | Alcoholism counseling (procedure) 
+784055004 | Counseling for acquired polycystic kidney disease (procedure) 
+784054000 | Counseling for congenital polycystic kidney disease (procedure) 
+286711000000107 | Counseling for depression (procedure) 
+395072006 | Counseling for postnatal depression (procedure) 
+313076000 | Counseling for eating disorder (procedure) 
+428997004 | Psychosocial counseling about cancer (procedure) 
+710199005 | Counseling about fear (procedure) 
+711030000 | Counseling about level of hope (procedure) 
+441331000124108 | Counseling about nutrition using cognitive restructuring strategy (procedure) 
+441201000124108 | Counseling about nutrition using cognitive-behavioral theoretical approach (procedure) 
+441271000124102 | Counseling about nutrition using goal setting strategy (procedure) 
+441231000124100 | Counseling about nutrition using health belief model (procedure) 
+441261000124109 | Counseling about nutrition using motivational interviewing strategy (procedure) 
+441291000124101 | Counseling about nutrition using problem solving strategy (procedure) 
+441341000124103 | Counseling about nutrition using relapse prevention strategy (procedure) 
+441351000124101 | Counseling about nutrition using rewards and contingency management strategy (procedure) 
+441281000124104 | Counseling about nutrition using self-monitoring strategy (procedure) 
+441241000124105 | Counseling about nutrition using social learning theory approach (procedure) 
+441301000124100 | Counseling about nutrition using social support strategy (procedure) 
+441321000124105 | Counseling about nutrition using stimulus control strategy (procedure) 
+441311000124102 | Counseling about nutrition using stress management strategy (procedure) 
+441251000124107 | Counseling about nutrition using transtheoretical model and stages of change approach (procedure) 
+310358004 | Counseling about serious diagnosis (procedure) 
+710198002 | Counseling about spiritual distress (procedure) 
+711028002 | Counseling about tobacco use (procedure) 
+105393000 | Counseling by chaplain (regime/therapy) 
+105394006 | Inpatient counseling by chaplain (regime/therapy) 
+105395007 | Outpatient counseling by chaplain (regime/therapy) 
+243069004 | Counseling for abuse (procedure) 
+313070006 | Counseling for domestic abuse (procedure) 
+243071004 | Counseling for physical abuse (procedure)
+313072003 | Counseling for racial abuse (procedure) 
+243070003 | Counseling for sexual abuse (procedure) 
+313071005 | Counseling for substance abuse (procedure) 
+60112009 | Drug addiction counseling (procedure)
+299941000000103 | Substance misuse structured counselling (procedure) 
+313069005 | Counseling for verbal abuse (procedure) 
+737598000 | Counseling for end of life issues (procedure) 
+313078004 | Counseling for loss (procedure) 
+395184006 | Counseling following miscarriage (procedure)
+171007003 | Counseling for bereavement (procedure) 
+171006007 | Counseling for grieving (procedure) 
+514171000000100 | Counselling about diagnosis (procedure) 
+33697008 | Geriatric counseling (procedure) 
+310359007 | Prognosis counseling (procedure) 
+171001002 | Counseling about benefits (procedure) 
+313084001 | Redundancy counseling (procedure) 
+171004005 | Retirement counseling (procedure) 
+313083007 | Unemployment counseling (procedure) 
+171002009 | Vocational counseling (procedure) 
+1103851000000109 | Counselling offered (situation) 
+185490001 | In-house counseling (procedure) 
+247181000000106 | In-house counselling discharge (procedure) 
+247171000000109 | In-house counselling first appointment (procedure) 
+ 247191000000108 | In-house counselling follow-up appointment (procedure) 
+129441002 | Counseling - action (qualifier value) 
+439495000 | Counseling declined (situation) 
+19260001000004109 | Abuse counseling for non-offending parent (situation) 
+19270001000004103 | Abuse counseling for offending parent (situation) 
+170986003 | Patient counseled (situation) 
+268532004 | Person counseled by (situation) 
+170997003 | Counseled by counselor (situation) 
+170992009 | Counseled by doctor (situation) 
+276497001 | Counseled by member of primary health care team (situation) 
+170995006 | Counseled by midwife (situation) 
+170993004 | Counseled by nurse (situation) 
+170996007 | Counseled by social worker (situation) 
+170998008 | Counseled by voluntary worker (situation) 
+1052641000000102 | Counselled by health visitor (situation) 
+306225008 | Referral to counseling service (procedure) 
+385720006 | Patient counseling management (procedure) 
+306227000 | Referral for mental health counseling (procedure) 
+1239851000000103 | Referral to debt counselling service (procedure) 
+306226009 | Referral to mental health counseling service (procedure) 
+385719000 | Patient counseling education (procedure)
+439853000 | Consent given for counseling (finding) 
+440611006 | Home visit for marriage counseling (procedure) 
+166871000000108 | Date children offered counselling (observable entity) 
+527961000000108 | Counselling about alcohol by other agency (procedure) 
+1037431000000105 | Recommendation to self-refer for counselling (procedure)
+1104491000000102 | Signposting to family support counselling (procedure) 
+1104501000000108 | Signposting to counselling (procedure) 
+1109931000000108 | Signposting to general practice based counselling (procedure) 
+171022008 | Psychological counseling (procedure)
+313087008 |  Counseling for anxiety (procedure)
+225421002 | Counseling for change in body image (procedure)
+313086004 | Counseling for self-esteem (procedure)
+698505007 | Counseling for trauma (procedure)
+445428001 | Person centered counseling (procedure)
+171023003 | Psychosexual counseling (procedure)
+737365009 | Counseling about sexual attitude (procedure)
+313079007 | Counseling for homosexuality (procedure)
+243066006 | Counseling for sexual dysfunction (procedure)
+737302009 | Counseling related to sexuality (procedure)
+66800001 | Counseling by physiotherapist (procedure)
+315600006 | Counseling for stress (procedure)
+10383002 | Counseling for termination of pregnancy (procedure)
+225326008 | Counseling following termination of pregnancy (procedure)
+225327004 | Counseling prior to the termination of pregnancy (procedure)
+440215007 | Counseling for unwanted pregnancy (procedure)
+313073008 | Counseling of crime victim (procedure)
+410273004 | Behavior modification education |  guidance |  and counseling (procedure)
+762449006 | Behavioral counseling (procedure)
+422649009 | Community outreach worker services education |  guidance |  and counseling (procedure)
+410282005 | Coping skills education |  guidance |  and counseling (procedure)
+410304007 | Relaxation/breathing techniques education |  guidance |  and counseling (procedure)
+171014001 | Medical counseling (procedure)
+171000001 | Social counseling (procedure)
+313085000 | Relationship counseling (procedure)
+68168001 | Marital counseling (procedure)
+86515003 | Premarital counseling (procedure)
+313080005 | Work-related counseling (procedure)
+108226001 | Specific patient counseling session (procedure)
+698506008 | Supportive counseling (procedure)
+737375007 | Group counseling (procedure)
+311764000 | Family counseling (procedure)
+719111000000107 | School counselling (qualifier value)
+443913008 | Counseling procedure with explicit context (situation)
+19260001000004100 | Abuse counseling for non-offending parent (situation)
+19270001000004100 | Abuse counseling for offending parent (situation)
+359101000000103 | Active listening offered (situation)
+170978003 | Counseling not wanted (situation)
+170982001 | Counseling of benefit (situation)
+394890004 | Counseling requested (situation)
+170983006 | Counseling of no benefit (situation)
+1103851000000100 | Counselling offered (situation)
+170985004 | Person counseled (situation)
+170987007 | Family counseled (situation)
+170988002 | Relative counseled (situation)
+1104501000000100 | Signposting to counselling (procedure)
+1104491000000100 | Signposting to family support counselling (procedure)
+1109931000000100 | Signposting to general practice based counselling (procedure)
+410318000 | Support group education |  guidance |  and counseling (procedure)
+810891000000103 | Referral to counselling assessment referral advice and throughcare drug service (procedure)
+185288004 | Seen by counselor (finding)
+305622007 | Seen by bereavement counselor (finding)
+372501000000100 | Seen by counsellor for alcohol misuse (finding)
+305624008 | Seen by marriage guidance counselor (finding)
+305625009 | Seen by mental health counselor (finding)
+305918000 | Referral by counselor (procedure)
+305919008 | Referral by bereavement counselor (procedure)
+305922005 | Referral by mental health counselor (procedure)
+824191000000109 | Liaison with counsellor (procedure)
+305439002 | Under care of counselor (finding)
+305440000 | Under care of bereavement counselor (finding)
+305442008 | Under care of marriage guidance counselor (finding)
+305443003 | Under care of mental health counselor (finding)
+306383002 | Discharge by counselor (procedure)
+306385009 | Discharge by bereavement counselor (procedure)
+306387001 | Discharge by marriage guidance counselor (procedure)
+306388006 | Discharge by mental health counselor (procedure)
