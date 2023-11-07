@@ -21,11 +21,15 @@ All the codelists utilised for data extraction underwent the rigorous quality co
 ### Anxiety
  - Any coded [anxiety episode](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_anxiety.txt) **AND** [concurrent treatment for anxiety](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_anxiety_treatment.txt).
 
-### Depression or Anxiety
+### Depression or anxiety
  - Composite of anxiety and depression outcomes. Any valid identification of depression or anxiety outcomes above.
 
-### Sleep Disturbance
+### Sleep disturbance
  - Any coded [sleep disturbance](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_sleep_disturbance.txt) event.
 
-### Mental Health Referral
+### Mental health referral
  - Any coded [CBT (Cognitive Behavioural Therapy), counselling, IAPT (Improving access to psychological therapies), psychiatry review or psychotherapy](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_mental_health_referrals.txt) event.
+
+### Primary care encounters
+ 1. Identified from occurence of a recorded primary care interaction.
+ 2. An interval of one day between interactions is required to be counted towards the number of primary care interactions.
