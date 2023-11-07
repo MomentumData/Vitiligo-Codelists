@@ -10,5 +10,13 @@ All the codelists utilised for data extraction underwent the rigorous quality co
 ## Algorithms for identification
 
 ### Vitiligo
- - Any individual with a [vitiligo specific diagnosis code](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_vitiligo)
- - No diagnosis code for an [alternative depigmenting disorder coded](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_vitiligo_exclusion) within a one-year period.
+1. Any individual with a [vitiligo specific diagnosis code](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_vitiligo)
+2. No diagnosis code for an [alternative depigmenting disorder coded](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_vitiligo_exclusion) within a one-year period.
+
+### Depression
+ - Any coded [depressive episode](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_depression.txt) **AND** [concurrent treatment for depression](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum%20_codelists_depression_treatment.txt).
+ - Any coded [depressive episode](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_depression.txt) **AND** [current treatment for depression](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum%20_codelists_depression_treatment.txt).
+ - Any code for [recurrent depressive disorder](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_depression.txt).
+
+### Anxiety
+ - Any coded [anxiety episode](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_anxiety.txt) **AND** [concurrent treatment for anxiety](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_anxiety_treatment.txt)
