@@ -10,5 +10,5 @@ All the codelists utilised for data extraction underwent the rigorous quality co
 ## Algorithms for identification
 
 ### Vitiligo
- - Any individual with an [vitiligo specific diagnosis code](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_vitiligo)
- - No diagnosis code for an [alternative depigmenting disorder](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_vitiligo_exclusion) coded within a one-year period.
+ - Any individual with a [vitiligo specific diagnosis code](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_vitiligo)
+ - No diagnosis code for an [alternative depigmenting disorder code]ed(https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_vitiligo_exclusion) within a one-year period.
