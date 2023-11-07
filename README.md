@@ -19,4 +19,13 @@ All the codelists utilised for data extraction underwent the rigorous quality co
  - Any code for [recurrent depressive disorder](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_depression.txt).
 
 ### Anxiety
- - Any coded [anxiety episode](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_anxiety.txt) **AND** [concurrent treatment for anxiety](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_anxiety_treatment.txt)
+ - Any coded [anxiety episode](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_anxiety.txt) **AND** [concurrent treatment for anxiety](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_anxiety_treatment.txt).
+
+### Depression or Anxiety
+ - Composite of anxiety and depression outcomes. Any valid identification of depression or anxiety outcomes above.
+
+### Sleep Disturbance
+ - Any coded [sleep disturbance](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_sleep_disturbance.txt) event.
+
+### Mental Health Referral
+ - Any coded [CBT (Cognitive Behavioural Therapy), counselling, IAPT (Improving access to psychological therapies), psychiatry review or psychotherapy](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_mental_health_referrals.txt) event.
