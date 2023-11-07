@@ -33,3 +33,12 @@ All the codelists utilised for data extraction underwent the rigorous quality co
 ### Primary care encounters
  1. Identified from occurence of a recorded primary care interaction.
  2. An interval of one day between interactions is required to be counted towards the number of primary care interactions.
+
+### Dermatology referral
+ - Any coded [specialist dermatology referral or specialist dermatology review](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_dermatology_referrals.txt).
+
+### Time-off work
+ - Any coded [issue of a Med 3 certificate of fitness for work](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_time_off_work.txt) - indicating time off work for illness or other evidence.
+
+### Unemployment
+ - Any coded [unemployment](https://github.com/MomentumData/Vitiligo-Codelists/blob/main/momentum_codelists_unemployment.txt).
