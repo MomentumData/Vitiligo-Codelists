@@ -1,4 +1,4 @@
-Anxiety episode
+Anxiety episode | 
 Read V2 Code | Description
 E200. | Anxiety states
 E2000 | Anxiety state unspecified
